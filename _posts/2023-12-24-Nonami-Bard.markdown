@@ -5,7 +5,7 @@ subtitle:   "Keyboardturner"
 active: journal
 image:
   feature: "pc_0008.png"
-date:       2024-02-08
+date:       2023-12-24
 header-img: "img/postcover/pc_0008.png"
 tags: [art, nonami]
 categories: [warcraft]
