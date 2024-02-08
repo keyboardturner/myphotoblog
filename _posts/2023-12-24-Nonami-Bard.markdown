@@ -24,10 +24,6 @@ gallery1:
 
 # Nonami - Bard / Rogue
 
-<img src="/assets/images/nonami_bard/FullRender_CombineSigned.png" alt="[PH]"/>
-
-<img src="/assets/images/nonami_bard/FullRender_CombinePortraitSigned.png" alt="[PH]"/>
-
 <!-- Gallery __-->
       
 {% include subgallery.html id="gallery1" %}
