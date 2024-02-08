@@ -3,7 +3,7 @@ title: PHOTORAMA
 email: ""
 description: "Photo Journal"
 url: "https://keyboardturner.github.io/"
-baseurl: "/myphotoblog"
+baseurl: "/photoblog"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://keyboardturner.github.io/myphotoblog/gallery/"  
-  - JOURNAL: "https://keyboardturner.github.io/myphotoblog/journal/"
-  - ABOUT: "https://keyboardturner.github.io/myphotoblog/about/"
+  - GALLERY: "https://keyboardturner.github.io/photoblog/gallery/"  
+  - JOURNAL: "https://keyboardturner.github.io/photoblog/journal/"
+  - ABOUT: "https://keyboardturner.github.io/photoblog/about/"
 
 # All translation keys
 translations:
