@@ -1,6 +1,6 @@
 # Site settings
 title: Keyboard's Photo Journal
-email: ""
+# email: ""
 description: "Photo Journal"
 url: "https://keyboardturner.github.io/"
 baseurl: "/photoblog"
