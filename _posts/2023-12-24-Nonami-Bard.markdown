@@ -10,6 +10,16 @@ header-img: "img/postcover/pc_0008.png"
 tags: [art, nonami]
 categories: [warcraft]
 comments: false
+gallery1: 
+  - image_path: /gallery/archive/g00001/FullRender_CombinePortraitSigned.png
+    image-caption: Portrait
+    image-copyright: © Keyboardturn
+  - image_path: /gallery/archive/g00001/FullRender_CombineSigned.png
+    image-caption: Full
+    image-copyright: © Keyboardturn
+  - image_path: /gallery/archive/g00001/RefSheetViews.png
+    image-caption: Reference Sheet
+    image-copyright: © Keyboardturn
 ---
 
 # Nonami - Bard / Rogue
@@ -17,6 +27,12 @@ comments: false
 <img src="/assets/images/nonami_bard/FullRender_CombineSigned.png" alt="[PH]"/>
 
 <img src="/assets/images/nonami_bard/FullRender_CombinePortraitSigned.png" alt="[PH]"/>
+
+<!-- Gallery __-->
+      
+{% include subgallery.html id="gallery1" %}
+
+<!-- end of GALLERY __ -->
 
 I just wanted to make something for my human rogue character. I never really felt like the in-game customization options gave me the look I really wanted.
 
