@@ -67,6 +67,7 @@
                         </a>
                     </li>
                     {% endif %}
+                    {% if site.email %}
             <li>
     <a href="mailto:{{ site.email }}" data-toggle="tooltip" target="_blank" title="Email">
                        <span class="fa-stack fa-lg">
@@ -74,6 +75,7 @@
                                 <i class="fa fa-envelope-o fa-stack-1x fa-inverse"></i>
 </span>
           </a> </li>
+                    {% endif %}
 
          <li>
                         <a href="{{ "/feed.xml" | prepend: site.baseurl }}" data-toggle="tooltip" title="Feed">

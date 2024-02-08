@@ -123,12 +123,15 @@ color:#dddddd; target="_blank" title="DeviantArt">
 color:#dddddd; target="_blank" title="Github">
               <i class="fa fa-github"></i>
                      </span>
-                   {% endif %}
+   {% endif %}
+                    {% if site.email %}
 <li>
     <a href="mailto:{{ site.email }}" style="
 color:#dddddd; target="_blank" title="Email">
               <i class="fa fa-envelope-o"></i></span>
           </a> </li>
+          
+   {% endif %}
 	
 					
 		</ul>	
