@@ -7,7 +7,7 @@ image:
   feature: "pc_0007.png"
 date:       2021-09-20
 header-img: "img/postcover/pc_0007.png"
-tags: [feedback, class skins]
+tags: [feedback, class-skins]
 categories: [warcraft]
 comments: false
 ---
