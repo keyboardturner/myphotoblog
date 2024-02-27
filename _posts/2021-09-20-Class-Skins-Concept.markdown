@@ -4,9 +4,9 @@ title:      "Class Skins Concept"
 subtitle:   "Keyboardturner"
 active: journal
 image:
-  feature: "/photoblog/gallery/archive/g00002/Concept_All2.jpg"
+  feature: "pc_0007.png"
 date:       2021-09-20
-header-img: "/photoblog/gallery/archive/g00002/Concept_All2.jpg"
+header-img: "img/postcover/pc_0007.png"
 tags: [feedback, class skins]
 categories: [warcraft]
 comments: false
