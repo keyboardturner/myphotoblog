@@ -12,8 +12,6 @@ categories: [warcraft]
 comments: false
 ---
 
-<!-- include lazyload images-->
-<script src="{{ site.baseurl }}/lazysizes.min.js" async=""></script>
 
 # Class Skins Concept
 
