@@ -12,6 +12,9 @@ categories: [warcraft]
 comments: false
 ---
 
+<!-- include lazyload images-->
+<script src="{{ site.baseurl }}/lazysizes.min.js" async=""></script>
+
 # Class Skins Concept
 
 (This is an archived post to put everything in one convenient location. Bear in mind these are somewhat dated, certain things such as unlocking class/race combinations are already implemented.)
