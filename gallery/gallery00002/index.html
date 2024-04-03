@@ -290,23 +290,20 @@ images:
 			<!-- Gallery __-->
 			<div class="gallery masonry-gallery">
 		
-{% for image in page.images %}  		
-
-				<figure class="gallery-item">
-					<header class='gallery-icon'>
-
-<a href="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}" class="popup" title="{{ image.caption }}" data-caption="{{ image.copyright }}">
-<img src="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}"></a>
-						
-					</header>	
-					<figcaption class='gallery-caption'>
-						<div class="entry-summary">
-							<h3>{{image.caption}}</h3>
-							<p>{{image.copyright}}</p>
-						</div>
-					</figcaption>
-				</figure>
-				
+{% for image in page.images %}      
+    <figure class="gallery-item">
+        <header class='gallery-icon'>
+            <a href="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}" class="popup" title="{{ image.caption }}" data-caption="{{ image.copyright }}">
+                <img src="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}" loading="lazy">
+            </a>
+        </header> 
+        <figcaption class='gallery-caption'>
+            <div class="entry-summary">
+                <h3>{{image.caption}}</h3>
+                <p>{{image.copyright}}</p>
+            </div>
+        </figcaption>
+    </figure>
 {% endfor %}
 
 			</div>
@@ -314,8 +311,6 @@ images:
 		</div><!-- END .wrapper -->
 	</section>
 
-<!-- include lazyload images-->
-<script src="{{ site.baseurl }}/lazysizes.min.js" async=""></script>
 <!-- jQuery -->    
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>

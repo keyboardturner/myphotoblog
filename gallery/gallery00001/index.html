@@ -16,6 +16,9 @@ images:
  - image_path: /gallery/archive/g00001/RefSheetViews.png
    caption: Reference Sheet
    copyright: © Keyboardturner
+ - image_path: https://i.imgur.com/yUxTEO8.png
+   caption: Test External Image
+   copyright: © Keyboardturner
 ---
 
 <html class="no-js" lang="en">
@@ -35,31 +38,27 @@ images:
 			<div class="gallery masonry-gallery">
 		
 {% for image in page.images %}  		
-
-				<figure class="gallery-item">
-					<header class='gallery-icon'>
-
-<a href="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}" class="popup" title="{{ image.caption }}" data-caption="{{ image.copyright }}">
-<img src="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}"></a>
-						
-					</header>	
-					<figcaption class='gallery-caption'>
-						<div class="entry-summary">
-							<h3>{{image.caption}}</h3>
-							<p>{{image.copyright}}</p>
-						</div>
-					</figcaption>
-				</figure>
-				
+    <figure class="gallery-item">
+        <header class='gallery-icon'>
+            <a href="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}" class="popup" title="{{ image.caption }}" data-caption="{{ image.copyright }}">
+                <img src="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}" loading="lazy">
+            </a>
+        </header>	
+        <figcaption class='gallery-caption'>
+            <div class="entry-summary">
+                <h3>{{image.caption}}</h3>
+                <p>{{image.copyright}}</p>
+            </div>
+        </figcaption>
+    </figure>
 {% endfor %}
+
 
 			</div>
 
 		</div><!-- END .wrapper -->
 	</section>
 
-<!-- include lazyload images-->
-<script src="{{ site.baseurl }}/lazysizes.min.js" async=""></script>
 <!-- jQuery -->    
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
