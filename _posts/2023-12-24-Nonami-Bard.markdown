@@ -28,7 +28,15 @@ gallery1:
       
 {% include subgallery.html id="gallery00001" %}
 
+<!-- test text here -->
+
 <!-- end of GALLERY __ -->
+
+<!-- gallery subpage test -->
+
+{% include gallery/gallery00001/index.html %}
+
+<!-- end gallery subpage test -->
 
 I just wanted to make something for my human rogue character. I never really felt like the in-game customization options gave me the look I really wanted.
 
