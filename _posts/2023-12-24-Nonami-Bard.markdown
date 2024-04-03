@@ -34,7 +34,7 @@ gallery1:
 
 <!-- gallery subpage test -->
 
-{% include gallery/gallery00001/index.html %}
+{% include_relative gallery/gallery00001/index.html %}
 
 <!-- end gallery subpage test -->
 
