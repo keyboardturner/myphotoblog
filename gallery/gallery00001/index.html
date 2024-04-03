@@ -6,14 +6,14 @@ active: gallery
 header-img: "img/gallery-bg.jpg"
 album-title: "Nonami Bard"
 images:
- - image_path: /gallery/archive/g00001/FullRender_CombinePortraitSigned.png
+ - image_path: https://keyboardturner.github.io/photoblog/gallery/archive/g00001/FullRender_CombinePortraitSigned.png
    caption: Portrait
    mfp-title: Portrait
    copyright: © Keyboardturner
- - image_path: /gallery/archive/g00001/FullRender_CombineSigned.png
+ - image_path: https://keyboardturner.github.io/photoblog/gallery/archive/g00001/FullRender_CombineSigned.png
    caption: Full
    copyright: © Keyboardturner
- - image_path: /gallery/archive/g00001/RefSheetViews.png
+ - image_path: https://keyboardturner.github.io/photoblog/gallery/archive/g00001/RefSheetViews.png
    caption: Reference Sheet
    copyright: © Keyboardturner
  - image_path: https://i.imgur.com/yUxTEO8.png
@@ -40,8 +40,8 @@ images:
 {% for image in page.images %}  		
     <figure class="gallery-item">
         <header class='gallery-icon'>
-            <a href="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}" class="popup" title="{{ image.caption }}" data-caption="{{ image.copyright }}">
-                <img src="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}" loading="lazy">
+            <a href="{{ image.image_path }}" class="popup" title="{{ image.caption }}" data-caption="{{ image.copyright }}">
+                <img loading="lazy" src="{{ image.image_path }}">
             </a>
         </header>	
         <figcaption class='gallery-caption'>
