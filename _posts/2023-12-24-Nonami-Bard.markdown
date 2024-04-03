@@ -26,7 +26,7 @@ gallery1:
 
 <!-- Gallery __-->
       
-{% include subgallery.html id="gallery1" %}
+{% include subgallery.html id="gallery00001" %}
 
 <!-- end of GALLERY __ -->
 
