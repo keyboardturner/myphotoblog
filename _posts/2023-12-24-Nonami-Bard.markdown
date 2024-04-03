@@ -34,7 +34,25 @@ gallery1:
 
 <!-- gallery subpage test -->
 
-<iframe src="/gallery/gallery00001/index.html" style="width: 100%;"></iframe>
+<iframe src="/photoblog/gallery/gallery00001/index.html" id="subgallery" style="width: 100%; border: none;"></iframe>
+
+<script>
+    window.onload = function() {
+        var iframe = document.getElementById('subgallery');
+        var iframeDocument = iframe.contentDocument || iframe.contentWindow.document;
+
+        function resizeIframe() {
+            iframe.style.height = iframeDocument.body.scrollHeight + 'px';
+        }
+
+        if (iframeDocument.readyState == 'complete') {
+            resizeIframe();
+        } else {
+            iframe.onload = resizeIframe;
+        }
+    };
+</script>
+
 
 <!-- end gallery subpage test -->
 
