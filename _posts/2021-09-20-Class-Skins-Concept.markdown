@@ -626,3 +626,11 @@ Thanks for reading. Some of the older location posts can also be found here:
 [Patreon 1](https://www.patreon.com/posts/class-skins-56400259)
 
 [Patreon 2](https://www.patreon.com/posts/class-skins-part-57880772)
+
+
+
+
+Test image section:
+
+<img loading="lazy" src="https://droppy.thebottom.net/$/edeSk" alt="..." />
+<img src="https://droppy.thebottom.net/$/KYKY9" alt="..." />

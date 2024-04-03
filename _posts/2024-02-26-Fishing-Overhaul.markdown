@@ -341,3 +341,8 @@ Most of these rewards should be Bind on Pickup as opposed to tradeable, but ther
 
 
 Cover image credit: [Jason Kang, Hearthstone Card Art](https://www.artstation.com/artwork/1nAN9e)
+
+Test image section:
+
+<img loading="lazy" src="https://droppy.thebottom.net/$/edeSk" alt="..." />
+<img src="https://droppy.thebottom.net/$/KYKY9" alt="..." />
