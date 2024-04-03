@@ -34,7 +34,7 @@ gallery1:
 
 <!-- gallery subpage test -->
 
-{% include gallery/gallery00001/index.html %}
+<iframe src="/gallery/gallery00001/index.html" style="width: 100%;"></iframe>
 
 <!-- end gallery subpage test -->
 
