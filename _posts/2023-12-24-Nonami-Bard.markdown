@@ -10,7 +10,7 @@ header-img: "img/postcover/pc_0008.png"
 tags: [art, nonami]
 categories: [warcraft]
 comments: false
-gallery1: 
+gallery00001: 
   - image_path: /gallery/archive/g00001/FullRender_CombinePortraitSigned.png
     image-caption: Portrait
     image-copyright: © Keyboardturn
@@ -28,33 +28,7 @@ gallery1:
       
 {% include subgallery.html id="gallery00001" %}
 
-<!-- test text here -->
-
 <!-- end of GALLERY __ -->
-
-<!-- gallery subpage test -->
-
-<iframe src="/photoblog/gallery/gallery00001/index.html" id="subgallery" style="width: 100%; border: none;"></iframe>
-
-<script>
-    window.onload = function() {
-        var iframe = document.getElementById('subgallery');
-        var iframeDocument = iframe.contentDocument || iframe.contentWindow.document;
-
-        function resizeIframe() {
-            iframe.style.height = iframeDocument.body.scrollHeight + 'px';
-        }
-
-        if (iframeDocument.readyState == 'complete') {
-            resizeIframe();
-        } else {
-            iframe.onload = resizeIframe;
-        }
-    };
-</script>
-
-
-<!-- end gallery subpage test -->
 
 I just wanted to make something for my human rogue character. I never really felt like the in-game customization options gave me the look I really wanted.
 
