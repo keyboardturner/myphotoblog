@@ -11,13 +11,16 @@ tags: [art, nonami]
 categories: [warcraft]
 comments: false
 gallery00001: 
-  - image_path: /gallery/archive/g00001/FullRender_CombinePortraitSigned.png
+  - image_path: https://keyboardturner.github.io/photoblog/gallery/archive/g00001/FullRender_CombinePortraitSigned.png
     image-caption: Portrait
     image-copyright: © Keyboardturn
-  - image_path: /gallery/archive/g00001/FullRender_CombineSigned.png
+  - image_path: https://keyboardturner.github.io/photoblog/gallery/archive/g00001/FullRender_CombineSigned.png
     image-caption: Full
     image-copyright: © Keyboardturn
-  - image_path: /gallery/archive/g00001/RefSheetViews.png
+  - image_path: https://keyboardturner.github.io/photoblog/gallery/archive/g00001/RefSheetViews.png
+    image-caption: Reference Sheet
+    image-copyright: © Keyboardturn
+  - image_path: https://i.imgur.com/yUxTEO8.png
     image-caption: Reference Sheet
     image-copyright: © Keyboardturn
 ---
