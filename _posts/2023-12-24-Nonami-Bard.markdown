@@ -102,13 +102,13 @@ An example of the same hairstyle with different scaled bones to give it a long o
 
 In a later addition, I also applied basic real-time physics to the hair skeleton to try and give it some life. It's however still a heavy work-in-progress with a lot of clipping and no collision regions set up, but it was an interesting experiment.
 
-<video controls loop>
+<video loading="lazy" width=100% controls loop>
   <source src="https://droppy.thebottom.net/$/QBiV7" type="video/mp4">
   Your browser does not support the video tag or is currently unavailable.
   [Alt: A video displaying a wavy physics effect upon the hair controlled by the armature. The hair tends to clip slightly into the human model shoulder. The human model looks around, animated in one of the default game poses.]
 </video>
 
-<video controls loop>
+<video loading="lazy" width=100% controls loop>
   <source src="https://droppy.thebottom.net/$/mKNrA" type="video/mp4">
   Your browser does not support the video tag or is currently unavailable.
   [Alt: A video displaying a wavy physics effect upon the hair controlled by the armature. Because the hair is shorter, it tends to clip less with the body of the model. The human model looks around, animated in one of the default game poses.]
