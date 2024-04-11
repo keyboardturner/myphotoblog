@@ -200,3 +200,24 @@ The hunter pet stables sees a new rework to its interface.
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/ldSds" alt="[PH]"/>
 
+# DB2 Changes (Test)
+
+## GlobalStrings
+
+if nothing is here then I will delete this RIP
+
+<div id="CSVTable"></div>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="//jquerycsvtotable.googlecode.com/files/jquery.csvToTable.js"></script>
+
+<script>
+$(function() {
+  $('#CSVTable').CSVToTable('https://droppy.thebottom.net/$/Pywvf');
+});
+</script>
+
+<script>
+$(function() {
+  $('#CSVTable').CSVToTable('https://droppy.thebottom.net/$/yS1zM');
+});
+</script>
