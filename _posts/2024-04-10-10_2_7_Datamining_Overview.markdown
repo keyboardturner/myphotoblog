@@ -17,7 +17,9 @@ comments: false
 
 Just some neat things I found in 10.2.7 Datamining. These are mostly just models and the like, nothing much for story spoilers. Some of these things can be found in the new game mode called [WoW Remix: Mists of Pandaria](https://worldofwarcraft.blizzard.com/en-us/news/24061007/under-development-wow-remix-mists-of-pandaria) (or Timerunning Pandamonium).
 
-New Xal'Atath Model
+# Models
+
+## New Xal'atath Model
 
 <video loading="lazy" width="100%" controls loop>
   <source src="https://droppy.thebottom.net/$/6vfwY" type="video/mp4">
@@ -27,7 +29,7 @@ New Xal'Atath Model
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/WPpHC" alt="[still image of Xal'atath's model showing her upper body details including runes on her face and arms, and black empire style armor with dark shoulder orbs]"/>
 
-Night Elf Wolf Mounts
+## Alliance Wolf Mount 2
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/oplFb" alt="[grey wolf in red elven styled armor]"/>
 
@@ -35,7 +37,7 @@ Night Elf Wolf Mounts
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/MOHbJ" alt="[dark grey wolf in purple/red elven styled armor]"/>
 
-Saber Mounts
+## Night Saber Horde Mounts
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/oIj5R" alt="[purple saber tiger with red/silver horde armor]"/>
 
@@ -43,15 +45,17 @@ Saber Mounts
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/KRiGu" alt="[white saber tiger with blue/silver horde armor]"/>
 
-Murloc
+## Murloc Surrender
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/dH1tg" alt="[a yellow murloc holding a painted target shield and white flag]"/>
 
-(Pride) Beach Chair
+## Beach Chair
+
+This particular beach chair seems to display peculiar LGBTQ+ rainbow and transgender pride flag colors on it. While the holiday is likely simply summer themed, there's a possibility it also doubles as a representation of LGBTQ+ Pride Month.
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/cZ3ix" alt="[a rainbow colored seat and parasol combo model]"/>
 
-Naga Battle Pet
+## "Baby Naga" Battle Pets
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/nFApz" alt="[a naga minipet colored in blue with prominent 3 eyes similar to Azshara]"/>
 
@@ -61,7 +65,9 @@ Naga Battle Pet
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/S5XiQ" alt="[a naga minipet colored in purple-blue with prominent 3 eyes similar to Azshara]"/>
 
-Possible Pandaria Timerunning Helms
+## Possible Pandaria Timerunning Helms
+
+Labelled as Loa Masks and Bamboo Hat
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/PxcUD" alt="[a tiki mask with a strap on it colored in red and brown wooden pattern]"/>
 
@@ -69,15 +75,15 @@ Possible Pandaria Timerunning Helms
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/xbKhw" alt="[a pandaren monk straw hat ]"/>
 
-Beach Hat
+## Beach Hat
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/Ggwag" alt="[a sunhat with styled bronze glasses]"/>
 
-Beach Toy Water Gun
+## Beach Toy Water Gun
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/eVV5G" alt="[a rack with water gun toys on it]"/>
 
-Old God Fish Mount
+## Old God Fish Mount
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/orwMl" alt="[a purple-red colored naga-esque fish mount with large jaws and mariner-style saddle]"/>
 
@@ -87,11 +93,11 @@ Old God Fish Mount
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/GwtQW" alt="[a purple-green colored naga-esque fish mount with large jaws and mariner-style saddle]"/>
 
-Fire Festival Bulwark
+## Fire Festival Bulwark
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/6CTV5" alt="[a bulwark with the fire festival insignia and flower on it]"/>
 
-Goblin Rocket Surfboard
+## Goblin Surfboard Mount
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/EThMK" alt="[blue and orange colored mechanical surfboard mount]"/>
 
@@ -107,7 +113,7 @@ Goblin Rocket Surfboard
   [Alt: the mount special animation of the goblin rocket surfboard, where it loops around in a circular flip]
 </video>
 
-Pandaren Phoenix Reward
+## Pandaren Phoenix Reward
 
 <video loading="lazy" width="100%" controls loop>
   <source src="https://droppy.thebottom.net/$/JqWaN" type="video/mp4">
@@ -120,7 +126,7 @@ Pandaren Phoenix Reward
 <img loading="lazy" src="https://droppy.thebottom.net/$/54UEd" alt="[a pandaren phoenix mount, colored with a white body, and red and black end feathers - side view]"/>
 
 
-Celestial Serpent Mount
+## Celestial Serpent Mount
 
 <video loading="lazy" width="100%" controls loop>
   <source src="https://droppy.thebottom.net/$/5XNg1" type="video/mp4">
@@ -130,7 +136,9 @@ Celestial Serpent Mount
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/6aXS9" alt="[a golden celestial serpent mount against a black background, displaying the yellow starts and white wooden saddle with red ropes and golden lanterns]"/>
 
-Transmog Sets
+## Transmog Sets
+
+While many of the questing armors remain specific to their armor type, some of the "starter sets" are in fact completely cosmetic across all armor proficiencies, including the Kor'kron Shaman sets, Shado-Pan Armors, and a few others. The "Partial" Helm / Shoulder / Belt combo sets still remain class-specific. There are currently about 400 new appearance item additions added to the collectable transmog data.
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/DpBjN" alt="[a variety of pandaria armor sets]"/>
 
@@ -150,16 +158,30 @@ Transmog Sets
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/w5GeZ" alt="[a variety of trading post helm/shoulder/belt armor sets]"/>
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/FhwBa" alt="[a variety of deep sea diver armor sets]"/>
+<img loading="lazy" src="https://droppy.thebottom.net/$/FhwBa" alt="[a variety of trading post helm/shoulder/belt armor sets]"/>
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/abO9P" alt="[a variety of trading post helm/shoulder/belt armor sets, as well as some recolors of the stormrider armor]"/>
+## Diver Suit Cosmetic Armors
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/zUF2Z" alt="[a variety of beach armor sets]"/>
+<img loading="lazy" src="https://droppy.thebottom.net/$/zUF2Z" alt="[a variety of deep sea diver armor sets]"/>
+
+## "Summer Swimsuit" Cosmetic Armors
+
+All armors can be worn by any body type.
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/MR1tW" alt="[a variety of beach armor sets, all colored brightly]"/>
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/nWV7C" alt="[a variety of beach armor sets, all colored brightly]"/>
 
+## Heritage Armor - Draenei & Troll
+
 <img loading="lazy" src="https://droppy.thebottom.net/$/ml69s" alt="[the draenei heritage armor]"/>
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/mZzjB" alt="[the troll heritage armor]"/>
+
+# Textures
+
+## Hunter Pet Stable UI Elements
+
+The hunter pet stables sees a new rework to its interface.
+
+<img loading="lazy" src="https://droppy.thebottom.net/$/eheFL" alt="[PH]"/>
