@@ -185,3 +185,18 @@ All armors can be worn by any body type.
 The hunter pet stables sees a new rework to its interface.
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/eheFL" alt="[PH]"/>
+
+## New Kul Tiran Hair Colors
+
+<img loading="lazy" src="https://droppy.thebottom.net/$/BKaEt" alt="[PH]"/>
+
+<img loading="lazy" src="https://droppy.thebottom.net/$/Bw81o" alt="[PH]"/>
+
+<img loading="lazy" src="https://droppy.thebottom.net/$/n8pIr" alt="[PH]"/>
+
+<img loading="lazy" src="https://droppy.thebottom.net/$/okKQN" alt="[PH]"/>
+
+<img loading="lazy" src="https://droppy.thebottom.net/$/ZydaH" alt="[PH]"/>
+
+<img loading="lazy" src="https://droppy.thebottom.net/$/ldSds" alt="[PH]"/>
+
