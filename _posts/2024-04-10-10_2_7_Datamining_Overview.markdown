@@ -115,6 +115,8 @@ Labelled as Loa Masks and Bamboo Hat
 
 ## Pandaren Phoenix Reward
 
+This mount is not only a very beautiful new coloration, but it also has dragonriding animations.
+
 <video loading="lazy" width="100%" controls loop>
   <source src="https://droppy.thebottom.net/$/JqWaN" type="video/mp4">
   Your browser does not support the video tag or is currently unavailable.
@@ -124,6 +126,12 @@ Labelled as Loa Masks and Bamboo Hat
 <img loading="lazy" src="https://droppy.thebottom.net/$/MFC1X" alt="[a pandaren phoenix mount, colored with a white body, and red and black end feathers - back view]"/>
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/54UEd" alt="[a pandaren phoenix mount, colored with a white body, and red and black end feathers - side view]"/>
+
+<video loading="lazy" width="100%" controls loop>
+  <source src="https://droppy.thebottom.net/$/o9WAM" type="video/mp4">
+  Your browser does not support the video tag or is currently unavailable.
+  [Alt: animated version of a pandaren phoenix mount, colored with a white body, and red and black end feathers. the mount displays dragonriding capable animations]
+</video>
 
 
 ## Celestial Serpent Mount
@@ -199,3 +207,42 @@ The hunter pet stables sees a new rework to its interface.
 <img loading="lazy" src="https://droppy.thebottom.net/$/ZydaH" alt="[PH]"/>
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/ldSds" alt="[PH]"/>
+
+# Other Items
+
+## Personal Tabard
+
+This was something found [much earlier](https://twitter.com/keyboardturn/status/1705691919010111620) and now seems to be getting fully implemented.
+
+<img loading="lazy" src="https://droppy.thebottom.net/$/dFyfe" alt="[PH]"/>
+
+## Mounts
+
+<img loading="lazy" src="https://droppy.thebottom.net/$/qdcIZ" alt="[PH]"/>
+
+<img loading="lazy" src="https://droppy.thebottom.net/$/U6LMJ" alt="[PH]"/>
+
+<img loading="lazy" src="https://droppy.thebottom.net/$/UFQU4" alt="[PH]"/>
+
+<img loading="lazy" src="https://droppy.thebottom.net/$/yTAwB" alt="[PH]"/>
+
+<img loading="lazy" src="https://droppy.thebottom.net/$/RknTP" alt="[PH]"/>
+
+<img loading="lazy" src="https://droppy.thebottom.net/$/AyI1W" alt="[PH]"/>
+
+<img loading="lazy" src="https://droppy.thebottom.net/$/fpNaB" alt="[PH]"/>
+
+<img loading="lazy" src="https://droppy.thebottom.net/$/5ZVxX" alt="[PH]"/>
+
+## Weapons
+
+<img loading="lazy" src="https://droppy.thebottom.net/$/gwxZ8" alt="[PH]"/>
+
+<img loading="lazy" src="https://droppy.thebottom.net/$/ucx9r" alt="[PH]"/>
+
+<img loading="lazy" src="https://droppy.thebottom.net/$/53TGH" alt="[PH]"/>
+
+<img loading="lazy" src="https://droppy.thebottom.net/$/POZEy" alt="[PH]"/>
+
+<img loading="lazy" src="https://droppy.thebottom.net/$/xj6yU" alt="[PH]"/>
+
