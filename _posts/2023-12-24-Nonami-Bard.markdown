@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Nonami - Bard / Rogue"
-subtitle:   "Keyboardturner"
+subtitle:   "The work in progress of making artwork for a human model character, and exploration into some unique hair modelling."
 active: journal
 image:
   feature: "pc_0008.png"

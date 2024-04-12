@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "An Extensive Fishing Overhaul"
-subtitle:   "Keyboardturner"
+subtitle:   "Ideas to largely overhaul fishing to be engaging and rewarding while still retaining its base gameplay."
 active: journal
 image:
   feature: "pc_0009.png"

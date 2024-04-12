@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Class Skins Concept"
-subtitle:   "Keyboardturner"
+subtitle:   "An explanation and many examples of the concept of Class Skins - an idea to give many classes customizations."
 active: journal
 image:
   feature: "pc_0007.png"
