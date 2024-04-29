@@ -21,7 +21,7 @@ comments: false
 - [Image Scale](#image-scale)
 - [Links](#links)
 - [Template Profile](#template-profile)
-- [Other](#other)
+- [Other Notes](#other-notes)
 
 This isn't really meant to be about how to use [Total RP 3](https://www.curseforge.com/wow/addons/total-rp-3), plenty of guides have been made about this already. This is actually aimed more at the customization side of a profile - what may make it catch your eye, and basically "how to make it pretty". This is of course mostly what works for me, and some examples of techniques. This also means that I'm not trying to make a "DO" and "DO NOT" list or anything like that - not unless it pertains to literally breaking the addon text formatting and the like.
 
