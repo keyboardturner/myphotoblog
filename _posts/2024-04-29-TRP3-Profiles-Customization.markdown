@@ -149,7 +149,7 @@ Here is an example of a template profile I tend to use when making a character p
 
 By default TRP3 only really has a texture browser for a select list of decent interface textures, and for good reson. Most other interface elements are just atlases or pieces of frames that don't generally look great. Until the possible day of a whole rework of how the About section handles textures (and maybe even the introduction of Atlases and/or using file data ID in addition to texture paths), this is also unlikely to really change. However, there are a few other small images that can be found elsewhere not included in this curated list one may find appealing.
 
-There's multiple ways to go about viewing the interface art. I've provided <a href="https://github.com/keyboardturner/wow-ui-art/tree/retail_png">my own repo</a> where I've already exported and converted the files. You can just use the button labelled as <pre>$ <> Code</pre> and select <pre>$Download ZIP</pre> then extract the files to view them in your file explorer. Notice that the branch selected at the top is called <pre>$ retail_png</pre>.
+There's multiple ways to go about viewing the interface art. I've provided <a href="https://github.com/keyboardturner/wow-ui-art/tree/retail_png">my own repo</a> where I've already exported and converted the files. You can just use the button labelled as <code><> Code</code> and select <pre>$Download ZIP</code> then extract the files to view them in your file explorer. Notice that the branch selected at the top is called <code>retail_png</code>.
 
 A few other resources similarly exist, though they may not be very convenient, fast, or simply not updated - but it does come down to personal preference. <a href="https://github.com/Gethe/wow-ui-textures">Gethe's WoW UI Textures</a> is an outdated resource I used to use some time back, but it was discontinued and hasn't been updated for Dragonflight. My project is basically the same.
 
@@ -164,11 +164,11 @@ You can alternatively use other file browser applications such as <a href="https
 
 If you want to be more self-reliant, you can export the game's interface art files yourself, and it's actually fairly easy to do and even supported by Blizzard's own game rather than using third party software. This is the list of all named texture files, which is also the list of textures TRP3's about section supports.
 
-When you open the game launcher, the gear icon next to the Play button has a Game Settings option. A checkbox for "Additional command line arguments" can be checked, allowing you to enable console access. Put <pre>$ -console</pre> into the text input of this checkbox and launch the game. Generally the console is opened via the <a href="https://en.wikipedia.org/wiki/Backtick">backtick / grave accent key</a>. This is the easiest, most user-friendly way to do this. Other methods can be found <a href="https://warcraft.wiki.gg/wiki/Console#Running_the_client_with_the_-console_flag_enabled">here</a>.
+When you open the game launcher, the gear icon next to the Play button has a Game Settings option. A checkbox for "Additional command line arguments" can be checked, allowing you to enable console access. Put <code>-console</code> into the text input of this checkbox and launch the game. Generally the console is opened via the <a href="https://en.wikipedia.org/wiki/Backtick">backtick / grave accent key</a>. This is the easiest, most user-friendly way to do this. Other methods can be found <a href="https://warcraft.wiki.gg/wiki/Console#Running_the_client_with_the_-console_flag_enabled">here</a>.
 
-Once the console appears, you'll be able to put in the following to begin exporting the files: <pre>$ ExportInterfaceFiles art</pre>. The game client may freeze up for a minute or two depending on your computer hardware write speed. It's pretty normal, it's literally exporting thousands of files as fast as it can.
+Once the console appears, you'll be able to put in the following to begin exporting the files: <code>ExportInterfaceFiles art</code>. The game client may freeze up for a minute or two depending on your computer hardware write speed. It's pretty normal, it's literally exporting thousands of files as fast as it can.
 
-From here, you can navigate to your WoW folder directory, which can also be easily found from the same gear icon on the launcher by selecting "Show in Explorer". Inside the highlighted client folder (usually <pre>$ _retail_</pre>) is a new folder called "BlizzardInterfaceArt". I'd also recommend possibly moving this folder into a new location that you don't mind taking up a lot of space. This folder contains a whole slew of other directories and images, but there's a few issues that may become immediately apparent - all these files are in a .blp format. There are some tools people have made to convert these files into .png format, such as <a href="https://www.wowinterface.com/downloads/info6127-BLP2PNG.html">BLP2PNG</a>, where you can drag files or even folders onto the .exe provided in the download link. It will also convert .png back into .blp, primarily only useful for addon devs (hence it being an addon dev resource tool). I however actually use a different program, but I only use it for converting .blp into .png and *not* the other way around. This program is called <a href="https://www.wowinterface.com/downloads/info22128-BLPNGConverter.html">BLPNG Converter</a> - it provides a nice small interface and additional progress bar. It will automatically skip anything it can't convert as well, so no need to worry about accidentally converting non-.blp files.
+From here, you can navigate to your WoW folder directory, which can also be easily found from the same gear icon on the launcher by selecting "Show in Explorer". Inside the highlighted client folder (usually <code>_retail_</code>) is a new folder called "BlizzardInterfaceArt". I'd also recommend possibly moving this folder into a new location that you don't mind taking up a lot of space. This folder contains a whole slew of other directories and images, but there's a few issues that may become immediately apparent - all these files are in a .blp format. There are some tools people have made to convert these files into .png format, such as <a href="https://www.wowinterface.com/downloads/info6127-BLP2PNG.html">BLP2PNG</a>, where you can drag files or even folders onto the .exe provided in the download link. It will also convert .png back into .blp, primarily only useful for addon devs (hence it being an addon dev resource tool). I however actually use a different program, but I only use it for converting .blp into .png and *not* the other way around. This program is called <a href="https://www.wowinterface.com/downloads/info22128-BLPNGConverter.html">BLPNG Converter</a> - it provides a nice small interface and additional progress bar. It will automatically skip anything it can't convert as well, so no need to worry about accidentally converting non-.blp files.
 
 From here, that's pretty much the whole process. Every major patch tends to add in new textures, but they're typically just icons or other assets that wouldn't display nicely, hence why I made <a href="https://github.com/keyboardturner/wow-ui-art/tree/retail_png">my own repo</a> to track differences during major patches.
 
@@ -191,76 +191,76 @@ Below are a handful of handpicked textures that can be found in the Glues folder
 
 Some of these can be rescaled to be be wider, or purposefully stretched to make a "blurred" backdrop.
 
-<pre>$ {img:Interface\Calendar\EventNotification:128:128}</pre>
+<code>{img:Interface\Calendar\EventNotification:128:128}</code>
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/9eiK4" alt="[PH]"/>
 
 
-<pre>$ {img:Interface\Calendar\Holidays\Calendar_HarvestFestivalOngoing:128:128}</pre>
+<code>{img:Interface\Calendar\Holidays\Calendar_HarvestFestivalOngoing:128:128}</code>
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/kJo9x" alt="[PH]"/>
 
-<pre>$ {img:Interface\CastinBar\UICastingBarChannelMask:128:128}</pre>
+<code>{img:Interface\CastinBar\UICastingBarChannelMask:128:128}</code>
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/zzZnN" alt="[PH]"/>
 
-<pre>$ {img:Interface\Challenges\challenges-background:512:512}</pre>
+<code>{img:Interface\Challenges\challenges-background:512:512}</code>
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/LfUUr" alt="[PH]"/>
 
-<pre>$ {img:Interface\CHARACTERFRAME\TemporaryPortrait-Female-Gilnean:64:64}</pre>
+<code>{img:Interface\CHARACTERFRAME\TemporaryPortrait-Female-Gilnean:64:64}</code>
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/om3lz" alt="[PH]"/>
 
-<pre>$ {img:Interface\COMMON\bluemenu-goldborder-horiz:64:128}</pre>
+<code>{img:Interface\COMMON\bluemenu-goldborder-horiz:64:128}</code>
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/Mlpdh" alt="[PH]"/>
 
-<pre>$ {img:Interface\CovenantRenown\DragonflightMajorFactionsPlunderstormBackground:1024:1024}</pre>
+<code>{img:Interface\CovenantRenown\DragonflightMajorFactionsPlunderstormBackground:1024:1024}</code>
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/lajsi" alt="[PH]"/>
 
-<pre>$ {img:Interface\ENCOUNTERJOURNAL\UI-EJ-BACKGROUND-ArcaneVaults:512:512}</pre>
+<code>{img:Interface\ENCOUNTERJOURNAL\UI-EJ-BACKGROUND-ArcaneVaults:512:512}</code>
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/iW1Uq" alt="[PH]"/>
 
-<pre>$ {img:Interface\Mount\Motionsicknesspart4:2048:2048}</pre>
+<code>{img:Interface\Mount\Motionsicknesspart4:2048:2048}</code>
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/YpqOM" alt="[PH]"/>
 
-<pre>$ {img:Interface\PLAYERFRAME\MonkDragonBar:256:128}</pre>
+<code>{img:Interface\PLAYERFRAME\MonkDragonBar:256:128}</code>
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/yVznb" alt="[PH]"/>
 
-<pre>$ {img:Interface\Timer\Alliance-Logo:256:256}</pre>
+<code>{img:Interface\Timer\Alliance-Logo:256:256}</code>
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/jzEtu" alt="[PH]"/>
 
-<pre>$ {img:Interface\Timer\Challenges-Logo:256:256}</pre>
+<code>{img:Interface\Timer\Challenges-Logo:256:256}</code>
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/Jc3Mm" alt="[PH]"/>
 
-<pre>$ {img:Interface\Timer\Horde-Logo:256:256}</pre>
+<code>{img:Interface\Timer\Horde-Logo:256:256}</code>
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/CvY6D" alt="[PH]"/>
 
-<pre>$ {img:Interface\GLUES\Models\UI_PIRATE\UI_PIRATE\UI_Pirate_Clouds:1024:512}</pre>
+<code>{img:Interface\GLUES\Models\UI_PIRATE\UI_PIRATE\UI_Pirate_Clouds:1024:512}</code>
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/5eVUB" alt="[PH]"/>
 
-<pre>$ {img:Interface\GLUES\Models\UI_PandarenCharacterSelect\tu_fallingPetals_Red:256:256}</pre>
+<code>{img:Interface\GLUES\Models\UI_PandarenCharacterSelect\tu_fallingPetals_Red:256:256}</code>
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/bBNbu" alt="[PH]"/>
 
-<pre>$ {img:Interface\GLUES\Models\UI_NightborneElf\rg_shadow_elf:256:256}</pre>
+<code>{img:Interface\GLUES\Models\UI_NightborneElf\rg_shadow_elf:256:256}</code>
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/FaHuF" alt="[PH]"/>
 
-<pre>$ {img:Interface\GLUES\Models\UI_MainMenu_BurningCrusade\HellfireStars2:256:256}</pre>
+<code>{img:Interface\GLUES\Models\UI_MainMenu_BurningCrusade\HellfireStars2:256:256}</code>
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/Mom9X" alt="[PH]"/>
 
-<pre>$ {img:Interface\GLUES\Models\UI_DemonHunter\Legion_Effect_Spin_01:256:256}</pre>
+<code>{img:Interface\GLUES\Models\UI_DemonHunter\Legion_Effect_Spin_01:256:256}</code>
 
 <img loading="lazy" src="https://droppy.thebottom.net/$/TU6XD" alt="[PH]"/>
 
