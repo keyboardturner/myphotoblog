@@ -5,7 +5,7 @@ subtitle:   "The Trading Post feels more expensive, and catch-up for new players
 active: journal
 image:
   feature: "pc_0012.png"
-date:       2024-04-29
+date:       2024-08-03
 header-img: "img/postcover/pc_0012.png"
 tags: [trading-post]
 categories: [warcraft]
