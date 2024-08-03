@@ -80,7 +80,7 @@ This solution also only really benefits long term players, however, and that's w
 
 ## Other Notes
 
-Much of this was pretty much calculated on my own. I've tried double and triple checking my work, my math, the correlations, and of course assmmbling lists of Trading Post historical data repeatedly. I even found some small incorrect numbers and bits of data that changed some of the numbers a bit. But to the best of my ability, as far as I'm aware, all data is correct.
+Much of this was pretty much calculated on my own. I've tried double and triple checking my work, my math, the correlations, and of course assembling lists of Trading Post historical data repeatedly. I even found some small incorrect numbers and bits of data that changed some of the numbers a bit. But to the best of my ability, as far as I'm aware, all data is correct.
 
 For my graphs, I used this data below. It's the same data as in the spreadsheet, but rearranged for it to be useable in graph form.
 
