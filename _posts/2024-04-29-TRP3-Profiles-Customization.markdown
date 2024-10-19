@@ -31,16 +31,16 @@ There's a few techniques you can use to help with your textures - this is more o
 
 For this example I will use a basic texture: `{img:Interface\ACHIEVEMENTFRAME\UI-Achievement-Bling:128:128}`
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/3cVA5" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016231905-e90d0b0f.png" alt="[PH]"/> <!-- Wow 2024-04-29 01-24-48 crop -->
 
 Typically this texture will be displayed displayed in the center of the About section. It's pretty basic. You have a tag indicating that it's an image, the image path which is found using the provided TRP3 browser *or* the [interface art export](#viewing-the-full-interface-art), and then some size coordinates for `XXX:YYY`. Icons are almost the same thing, however you may have noticed that they're treated like text. You can see this with this example, where the text and icon are on the same line and centered: `{p:c}{icon:ability_ambush:25}Your text here{/p}`
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/lXFEE" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016231906-74acf4de.png" alt="[PH]"/> <!-- Wow 2024-04-29 01-25-10 crop -->
 
 
 Images can actually work similar, but they're also a bit different. At the end of the image code but still within the brackets, you can put in an l or r, for left and right. This would be an example of the above: `{img:Interface\ACHIEVEMENTFRAME\UI-Achievement-Bling:128:128:r}`
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/nstZv" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016231907-b0ebe523.png" alt="[PH]"/> <!-- Wow 2024-04-29 01-25-27 crop -->
 
 The texture should now placed on the right of the About section - notice that it seemingly appears within the same line as the text. However there are a few very key things to note - your placement of textures, and its "layering" upon the text is *generally* dependent upon which line comes first and how large the image is. This isn't always a guarantee as there's nothing that necessarily explicitly dictates this rule and I've heard others say they've seen it mess up, but I've personally not actually seen it happen. But it is something to keep in mind, and it is a low possibility subject to change in future patches.
 
@@ -48,7 +48,7 @@ The texture should now placed on the right of the About section - notice that it
 
 There are also additional things that can be used in unconventional ways. For example, aforementioned was the `XXX:YYY` size components. Typically if you want the image to look the way it does, you use the same ratio for its size - but there are some textures which work well to emulate separators / breaks when pushed to extremes. One example commonly found in the image browser are the pet battle textures. By squishing the Y value to extremely small values, you can produce what looks like a multi-colored line. In this example, I take the texture, give it a wide 512 pixel value, and then squish its height down to 3. Typically anywhere between 2-6 range tends to look decent. You can do this on any texture really, but the pet battle ones are a favorite and accessible from the TRP3 default browser: `{img:Interface\PETBATTLES\Weather-Sandstorm:512:3}`
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/F4nM7" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016231907-1589340d.png" alt="[PH]"/> <!-- Wow 2024-04-29 01-25-49 crop -->
 
 A combination of some of these working together can produce many different "elements" on themselves. This is an example of a "Title template" I made:
 
@@ -61,7 +61,7 @@ A combination of some of these working together can produce many different "elem
 {img:Interface\PETBATTLES\Weather-Sandstorm:500:2}{img:Interface\PETBATTLES\Weather-Sandstorm:400:2}
 ```
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/3MNAh" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016231908-8cf50122.png" alt="[PH]"/> <!-- Wow 2024-04-29 01-26-07 crop -->
 
 The first line places gem icons on the left and right sides. Then a shadowy backdrop texture found in [full interface art directory](#viewing-the-full-interface-art) is placed upon the left side, causing it to be its own layer beneath the following. The top of the title line is then established, followed by the text given a Header Title 2 set in the center and given some color. The text is put in, and then the color and header tags are closed. **This detail is crucial for the compatibility of other RP Profile addons and not breaking things. While it *may* continue to work on TRP3, it may not work well for other players. Always make sure to close the appropriate tags where necessary.**
 
@@ -75,7 +75,7 @@ There are also other little tricks that can be done regarding links and colors. 
 {col:a095db}{link*https://www.curseforge.com/wow/addons/total-rp-3-unit-frames*TRP3 Unit Frames}{/col}
 ```
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/oPQHb" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016231910-30e3624a.png" alt="[PH]"/> <!-- Wow 2024-04-29 01-27-56 -->
 
 Colors are also retained outside of the tags if the text is on the same line, so you can revert back to the non-link color once added. This can save some space in your profile data size, which can be crucial to help lessen bandwidth usage as the bandwidth of addon data is actually quite limited and can often hit its limit in crowded events. An example of these combined:
 
@@ -84,7 +84,7 @@ Colors are also retained outside of the tags if the text is on the same line, so
 ```
 
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/KyPZW" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016231910-2f27a402.png" alt="[PH]"/> <!-- Wow 2024-04-29 01-28-22 -->
 
 I usually tend to just use 1 color per line as well, rather than attempting a gradient of individual characters. Sometimes it can look pretty, but it's also very difficult to read when editing, and also difficult to set up. Maybe hopefully one day a better built in method for gradients is implemented however. I tend to use [this tool](https://colordesigner.io/gradient-generator) to transition the colors of each line. It allows you to choose 2 colors, and generate a selection of "steps" between the beginning and end points. There are also various modes by which the color values "travel" from one point to another (around a color wheel vs. straight through it, etc.)
 
@@ -95,7 +95,7 @@ Links also don't always need to necessarily contain an actual website URL. In fa
 {p:c}Some text {link*Tooltip text here*{icon:ability_ambush:25}}{/p}
 ```
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/HPokN" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016231911-9c007a79.png" alt="[PH]"/> <!-- Wow 2024-04-29 01-32-38 -->
 
 ## Template Profile
 
@@ -138,7 +138,7 @@ Here is an example of a template profile I tend to use when making a character p
 
 
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/UrSrG" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016231909-1ba5da62.png" alt="[PH]"/> <!-- Wow 2024-04-29 01-27-18 -->
 
 ## Other Notes
 
@@ -193,76 +193,76 @@ Some of these can be rescaled to be be wider, or purposefully stretched to make 
 
 <code>{img:Interface\Calendar\EventNotification:128:128}</code>
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/9eiK4" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016231936-51642d09.png" alt="[PH]"/> <!-- EventNotification -->
 
 
 <code>{img:Interface\Calendar\Holidays\Calendar_HarvestFestivalOngoing:128:128}</code>
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/kJo9x" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016231934-3c73cce0.png" alt="[PH]"/> <!-- Calendar HarvestFestivalOngoing -->
 
 <code>{img:Interface\CastinBar\UICastingBarChannelMask:128:128}</code>
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/zzZnN" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016231941-c2b976a8.png" alt="[PH]"/> <!-- UICastingBarChannelMask -->
 
 <code>{img:Interface\Challenges\challenges-background:512:512}</code>
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/LfUUr" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016231934-e1d398c4.png" alt="[PH]"/> <!-- challenges-background -->
 
 <code>{img:Interface\CHARACTERFRAME\TemporaryPortrait-Female-Gilnean:64:64}</code>
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/om3lz" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016231939-972e586f.png" alt="[PH]"/> <!-- TemporaryPortrait-Female-Gilnean -->
 
 <code>{img:Interface\COMMON\bluemenu-goldborder-horiz:64:128}</code>
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/Mlpdh" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016231934-65cdd878.png" alt="[PH]"/> <!-- bluemenu-goldborder-horiz -->
 
 <code>{img:Interface\CovenantRenown\DragonflightMajorFactionsPlunderstormBackground:1024:1024}</code>
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/lajsi" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016231935-ba2e7888.png" alt="[PH]"/> <!-- DragonflightMajorFactionsPlunderstormBackground -->
 
 <code>{img:Interface\ENCOUNTERJOURNAL\UI-EJ-BACKGROUND-ArcaneVaults:512:512}</code>
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/iW1Uq" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016231941-145f5b82.png" alt="[PH]"/> <!-- UI-EJ-BACKGROUND-ArcaneVaults -->
 
 <code>{img:Interface\Mount\Motionsicknesspart4:2048:2048}</code>
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/YpqOM" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016231938-0b16d075.png" alt="[PH]"/> <!-- Motionsicknesspart4 -->
 
 <code>{img:Interface\PLAYERFRAME\MonkDragonBar:256:128}</code>
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/yVznb" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016231937-c3144b28.png" alt="[PH]"/> <!-- MonkDragonBar -->
 
 <code>{img:Interface\Timer\Alliance-Logo:256:256}</code>
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/jzEtu" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016231934-5b17b287.png" alt="[PH]"/> <!-- Alliance-Logo -->
 
 <code>{img:Interface\Timer\Challenges-Logo:256:256}</code>
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/Jc3Mm" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016231935-ec781087.png" alt="[PH]"/> <!-- Challenges-Logo -->
 
 <code>{img:Interface\Timer\Horde-Logo:256:256}</code>
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/CvY6D" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016231936-67b3d366.png" alt="[PH]"/> <!-- Horde-Logo -->
 
 <code>{img:Interface\GLUES\Models\UI_PIRATE\UI_PIRATE\UI_Pirate_Clouds:1024:512}</code>
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/5eVUB" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016231940-b2317e79.png" alt="[PH]"/> <!-- UI Pirate Clouds -->
 
 <code>{img:Interface\GLUES\Models\UI_PandarenCharacterSelect\tu_fallingPetals_Red:256:256}</code>
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/bBNbu" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016231939-5d4e6c40.png" alt="[PH]"/> <!-- tu fallingPetals Red -->
 
 <code>{img:Interface\GLUES\Models\UI_NightborneElf\rg_shadow_elf:256:256}</code>
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/FaHuF" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016231939-725dcd87.png" alt="[PH]"/> <!-- rg shadow elf -->
 
 <code>{img:Interface\GLUES\Models\UI_MainMenu_BurningCrusade\HellfireStars2:256:256}</code>
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/Mom9X" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016231936-7f9e9a68.png" alt="[PH]"/> <!-- HellfireStars2 -->
 
 <code>{img:Interface\GLUES\Models\UI_DemonHunter\Legion_Effect_Spin_01:256:256}</code>
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/TU6XD" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016231937-de4efa0f.png" alt="[PH]"/> <!-- Legion Effect Spin 01 -->
 
 
 
