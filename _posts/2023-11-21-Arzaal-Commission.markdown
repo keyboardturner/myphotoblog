@@ -5,7 +5,7 @@ subtitle:   "A commission to make artwork of the Man'ari seeking redemption."
 active: journal
 image:
   feature: "pc_0013.jpg"
-date:       2024-11-21
+date:       2023-11-21
 header-img: "img/postcover/pc_0013.jpg"
 tags: [art, arzaal]
 categories: [warcraft]
