@@ -28,16 +28,16 @@ The goal with these class skins is to provide specific race-class combos as a wa
 
 # Paladin Racial Class Skins
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/KtR1R" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230808-1ced6feb.jpg" alt="[Displaying the various concepts and ideas for a paladin of every race, including Tauren, Goblin, Worgen, Undead, Pandaren, Troll, Night Elf, Gnome, and Kul Tiran.]"/> <!-- ClassSkinsCard -->
 
 
 ## Sunwalkers: Tauren & Highmountain Tauren Paladins
 
 _Connection and exchange with their shu'halo brethren lead to the discussion of An'she to establish teachings of the Sunwalkers to their united Highmountain Tauren allies._
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/uCeTY" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230610-dd60af6c.jpg" alt="[A pair of Highmountain Tauren and Tauren Sunwalkers wielding a fiery light magic. A colored logo is placed in the background for each.]"/> <!-- ClassSkin Tauren -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/7mhvQ" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230617-607fa1e0.jpg" alt="[A Highmountain Tauren displaying various icons for abilities, including Sunwalker's Aegis, Blaze of An'she, Shield of the Suntouched, and Dawn's Fury.]"/> <!-- ClassSkin Tauren Sunwalker -->
 
 The Sunwalkers were the first "radical idea" for the Paladin class, expanding the lore beyond a knight wielding holy power (even the Blood Elves gave off evil-vibes of that concept in early Burning Crusade) so Sunwalkers would be one of the top candidates for a custom Class Skin.
 
@@ -50,9 +50,9 @@ One idea (not shown) was that casting Avenging Wrath (called Blaze of An'she) wo
 
 _Night Elves, worshippers of Elune and inspired by the Night Warrior, these champions of the moon herald a new age of justice for the Kaldorei._
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/SwIxQ" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230501-2c7c1c4e.jpg" alt="[A pair of Night Elf paladins, displaying a concept for Nightblade and Moonblade. The Nightblade wields a slightly darker purple and blue sparkly magic, while the Moonblade wields a lighter blue lunar magic.]"/> <!-- ClassSkin NightElf -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/ZFZz2" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230503-87b7e2f0.jpg" alt="[A Night Elf Moonblade displaying various icons for abilities, including Embrace of the Goddess, Radiance of the Moon, Divine Moonglaive, and Crescent Fury.]"/> <!-- ClassSkin NightElf Moonblade -->
 
 Perhaps one of the most highly requested unavailable Paladin races, the idea of a Night Elf Paladin pulling their strength directly from Elune is something we've seen in WoW a few times before (notably, Legion). The idea here is to provide them with a "standard Elune devotee" class skin with a secondary option that leaned more heavily into the Night Warrior aesthetic seen with Tyrande and the "Dark Side of the Moon".
 
@@ -63,11 +63,11 @@ _Skilled templars of combat, the Valewalkers defend their homeland of Pandaria w
 
 _Craneguards, devoted champions of Chi-Ji, seek to bring hope to the war-torn lands of Azeroth._
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/T8hVX" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230505-d55713cd.jpg" alt="[A pair of Pandaren paladins, displaying a concept for Valewalker and Craneguard. The Valewalker wields a bright soft yellow magic, while the Craneguard wields an orange-red swirling magic.]"/> <!-- ClassSkin Pandaren -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/6UJkc" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230507-83568e11.jpg" alt="[A Pandaren Craneguard displaying various icons, including Song of Hope, Crane Wing Oath, Celestial Chakri, and Dawnmist Spin.]"/> <!-- ClassSkin Pandaren Craneguard -->
 
-In the wak of the Vale's regrowth and the expulsion of the Black Empire in Battle for Azeroth, the Golden Lotus have taken up a new mantle within their order to protect and defend their land using the magic of the Vale.
+In the wake of the Vale's regrowth and the expulsion of the Black Empire in Battle for Azeroth, the Golden Lotus have taken up a new mantle within their order to protect and defend their land using the magic of the Vale.
 
 In the south of Pandaria, the Order of the Crane expanded their temples' teachings with "Craneguards," an armoured monk who utilises the teachings and magic of Chi-Ji, the Red Crane.
 
@@ -80,7 +80,7 @@ These visuals, combined with the martial art style combat animations, would allo
 
 _The Forsaken, shattered by a lack of leadership, began to discover new paths. An attempted second Council arose, with Calia Menethil and Alonsus Faol to research the Light, while the Cult of Forgotten Shadows tests new concepts delving into the teachings of the Void._
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/3Q25m" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230420-6a443439.jpg" alt="[A pair of Undead paladins, displaying a concept for Lightblade and Shadow Knight. The Lightblade is a more generic Holy light magic, while the Shadow Knight completely wields Shadow magic.]"/> <!-- ClassSkin Forsaken -->
 
 Perhaps the most requested (next to Night Elf Paladin) unavailable Paladin race, the Forsaken Lightblade concept is essentially a new order of Paladins within Lordaeron, perhaps lead by Leonid Bathalomew. 
 
@@ -95,9 +95,9 @@ Led by Calia Menethil and Alonsus Faol together, these two concepts would open u
 
 _With Liadrin's Blood Knights and Shattered Sunblades, there has always remained a rift in the teachings of the Light. After the Mag'har's tales of Yrel, and what was witnessed in the Vindicaar, some believe the Light is to be controlled, not called upon._
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/fCigq" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230346-4ffd4498.jpg" alt="[A pair of Blood Elf paladins, displaying a concept for Sunblade and Blood Knight. The Sunblade is a more generic Holy light magic, while the Blood Knight is completely crimson red, even a tinge darker.]"/> <!-- ClassSkin BloodElf -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/hNdWz" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230348-2e2f7ac1.jpg" alt="[A Blood Elf Blood Knight displaying various icons, including Bloodlight Protection, Sunwell's Glory, Blood Matriarch's Aegis, and Radiant Cleave.]"/> <!-- ClassSkin BloodElf BloodKnight -->
 
 Blood Knights have been in lore forever, even though their story changed at the end of Burning Crusade.
 
@@ -112,9 +112,9 @@ _With some Blood Knights exiled for their research in M'uru, it was realised tha
 
 _With the teachings of old former High Elven paladins of the Silver Hand, some void Elves have begun to attempt to cleanse their void._
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/r5l8w" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230637-a89acffa.jpg" alt="[A pair of Void Elf paladins, displaying a concept for Silver Hand and Riftblade. The Silver Hand is a more generic Holy light magic, while the Riftblade is a completely dark blue/blade void paladin.]"/> <!-- ClassSkin VoidElfPaladin Riftblade -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/DsLsp" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230645-c7558c1d.jpg" alt="[A Void Elf Riftblade displaying various icons, including Umbral Nullification, Ethereal Vengeance, Entropic Aegis, and Riftstorm.]"/> <!-- ClassSkin VoidElfPaladin Riftblade2 -->
 
 Blood Elves can be Paladins - why not Void Elves?
 
@@ -129,11 +129,11 @@ _The Order of Embers, looking to completely purge the Drust from Kul Tiras, took
 
 _The Tideguards, heavily armed protectors of the Storm's Wake, utilise the same magics as the Tidesages. Where many others look to the Light for guidance, members of the Awakened find a much deeper connection to the seas._
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/XWXas" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230438-f2df3e4d.jpg" alt="[A pair of Kul Tiran paladins, displaying a concept for Embersworn and Tideguard. The Embersworn is a fiery crusader, while the Tideguard is a water element-based paladin similar to a Tidesage.]"/> <!-- ClassSkin KulTiran -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/8rSzU" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230442-945fd33d.jpg" alt="[A Kul Tiran Tideguard displaying various icons, including Tidal Shroud, Tidemother's Fury, Ferryman's Targe, and Seastorm's Slam]"/> <!-- ClassSkin KulTiran Tideguard -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/kW22q" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230440-730bfe33.jpg" alt="[A Kul Tiran Embersworn displaying various icons, including Inquisitor's Bulwark, Oath of Embers, Witch-Hunter's Chakram, and Silverblade Whirl]"/> <!-- ClassSkin KulTiran Embersworn -->
 
 Kul Tiras introduced two new concepts that would make for the perfect Paladin. The first and most obvious one was the Tidesage (or in this case, Tideguard). With the Kul Tirans putting their faith mostly within the sea itself and the Tidesages seen in nearly every aspect of their island culture, it makes sense to form a "Paladin Order" from it. The spell kit would introduce mostly water and air themed spell effects and could also apply to other classes such as Mages, Shaman, Priests, and Monks.
 
@@ -144,7 +144,7 @@ The second concept builds on the Order of Embers within Drustvar - witch hunters
 
 _Lightguards and Lightfangs, forces old and new to Gilneas, were one of few. Though there has always been some devotion to the Light, very few select Gilnean soldiers of the original Order of the Silver Hand remained. Now they look at renewing the Light's Dawn._
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/zYMU1" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230759-d329f725.jpg" alt="[A pair of Worgen paladins, displaying a concept for Lightfang and Lightguard. They both display a soft light yellow holy magic, similar to a generic paladin.]"/> <!-- Classskin Worgen -->
 
 Gilneas worshipped the Light just as Lordaeron did and there have been a few Gilnean Paladins mentioned throughout the years. The idea here is to simply introduce a new class-race combo without much of a themed visual kit. They worship the same Holy Light as their Stormwind/Lordaeron cousins, but we wanted to create a visual concept for "Old Gilnean Templars" and "New Age Worgen Paladin" - hence the variation in names.
 
@@ -153,7 +153,7 @@ Gilneas worshipped the Light just as Lordaeron did and there have been a few Gil
 
 The Dark Irons wield a devotion to Elemental Fire, serving as an elite form of soldier. Though some are rumoured to worship Ragnaros, most establish their firm belief and devotion to the new firelord, Smolderon.
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/lIZN4" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230418-f48de304.jpg" alt="[A pair of Dwarf paladins, displaying a concept for Flamekeeper. They both display a fiery elemental-based magic.]"/> <!-- ClassSkin Dwarf -->
 
 For Dark Irons, these would pull from a similar fiery spell kit as the Sunwalkers, (with a darker,  fiery tone) and embrace the idea of "worshippers of the Molten Core" as their faith (not too unlike the Kul Tiran Tideguards). With the teasing of action within the Firelands happening in the Allied Race questline, these Dark Irons have taken up an oath to the primal powers of the Firelands while still maintaining their faith in the Light, creating a literal Flame Paladins.
 
@@ -164,9 +164,9 @@ It's possible the Wildhammer have viewed Fire as an enemy for so long - the expl
 
 _Inspired by the Zandalari and rekindling relations between the tribes lead to an exchange in teachings and culture. Darkspear Prelates of the rebirth Loa, Vol'jin, enact servitude to defend against the darkness._
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/tLDAv" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230629-d93166db.jpg" alt="[A pair of Troll paladins, displaying a concept for Prelate. They both display a wispy, golden magic.]"/> <!-- Classskin Troll2 -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/opBgm" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230622-8146af9d.jpg" alt="[A Zandalari Prelate displaying various icons, including Torcali's Bulwark, Fury of the Loa, Divine Loa Seal, and Hexxing Whirl.]"/> <!-- Classskin Troll Prelate -->
 
 In Battle for Azeroth, we met the Zandalari Prelates and there stands no reason why they can't teach the Darkspear how to wield the Light of the Loa. The Prelate's main themed kit would be using Holy light with a more focused theme on the Loa themselves. The idea here would be that they call upon the powers from a single source - like Prelates of Rezan once did - but rather calling upon the might of multiple Loa. Potentially some specific spell effects could match the Zandalari racial currently chosen. For example, "Fury of the Loa" could turn into a visual representation of a loa, such as a Golden Tiger roaring for Kimbul, or a Deathmask and golden bones for Bwonsamdi.
 
@@ -175,7 +175,7 @@ In Battle for Azeroth, we met the Zandalari Prelates and there stands no reason 
 
 _The Draenei are no strangers to the Light, and after deep understanding and millennia of teaching, their devotion to the Naaru make them capable of harnessing power befitting their knowledge._
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/j3vm9" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230407-194ff049.jpg" alt="[A pair of Draenei paladins, displaying a concept for Vindicator. They wear crystalline armor, with the left figure displaying a pair of crystalline naaru-like wings.]"/> <!-- ClassSkin Draenei2 -->
 
 This idea wouldn't stray too far in terms of spell effects (perhaps more glowing gold with crystalline themes) but focus on the idea of the Naaru aligned Paladins and them being the most ancient of the playable Paladin races.
 
@@ -184,11 +184,11 @@ This idea wouldn't stray too far in terms of spell effects (perhaps more glowing
 
 _Research and rivalries between the Goblins and Gnomes lead to using new methods to harness the Light in ways only observed by the Titans. The newly established Mechaknights, Titanguards, and Junkblades use newfound technologies to their advantage._
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/ZMFNg" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230423-dd158728.jpg" alt="[A pair of Gnome paladins, displaying a concept for Mechaknight and Silver Hand. The Mechaknight is a mechagnome wielding a lightning-based hammer infused with magic, while the Silver Hand is a more generic paladin.]"/> <!-- ClassSkin Gnome -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/iPKTc" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230425-183e8718.jpg" alt="[A Mechagnome Mechaknight displaying various icons, including Mimiric Safeguard, Norgannic Protocol, D.I.S.C (Defensive Injury-Seeking Chakram), and Whirring Feedback.]"/> <!-- ClassSkin Gnome Mechaknight -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/NicN1" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230427-4dceb298.jpg" alt="[A pair of Goblin paladins, displaying a concept for Titanguard and Junkblade. The Titanguard is wielding solid, functioning mechanical weapons and gear, while the Junkblade wields more scrap-like armor that appears to be hastily put together.]"/> <!-- ClassSkin Goblin -->
 
 The idea that Gnomes, members of the original Alliance of Lordaeron, can be priests but not Paladins is a little silly. They can also be Warriors and Death Knights, so there's no reason physically they can't be Paladins.
 
@@ -218,13 +218,13 @@ _While some members of the Black Harvest ventured into Maldraxxus in search of n
 
 _In the absence of a Jailer, Torghast and its workings seem to function differently than before. Noting this disturbance, Bolvar Fordragon states that valuable resources remain untapped. A prominent fiery wing of Torghast, the Soulforges, was once used to smelt souls into weaponry and armour. Rather than letting the cinders and ashes of souls go to waste, it would only seem fitting to study schematics deep within its halls and forge armaments for the champions of Azeroth_
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/i7zwn" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230350-0f4a4ed4.jpg" alt="[A pair of Death Knights, displaying a concept for Blightreaver and Soulsmith. The Blightreaver wields dark and blue lightning-like Drust magic, while the the Soulsmith wields a fiery hell-like magic detailed with bright white and dark sparks.]"/> <!-- Classskin DeathKnight -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/IkBng" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230352-ace024d7.jpg" alt="[A Kul Tiran Blightreaver displaying various features. 1: Venture to Thros, the Blighted Lands to uncover the insidious schemes of the awakened Drust. 2: Cosmetic Drust Abilities. 3: New Wicker minion appearances. 4: Unlock Kul TIran Warlocks.]"/> <!-- ClassSkin DeathKnight Blightreaver -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/BLkp7" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230357-a1e629fb.jpg" alt="[A Worgen Soulsmith displaying various features. 1: Accompany Bolvar in the depths of Torghast and claim the Soulforges in the name of Azeroth. 2: Cosmetic fiery abilities. 3: New Soulforged minion apearances.]"/> <!-- ClassSkin DeathKnight Soulsmith -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/72gcF" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230355-64b63f36.jpg" alt="[Lore snippets for Blightreaver and Soulsmith. Blightreaver: While some members of the Black Harvest ventured into Maldraxxus in search of new power, others turned their gaze to a different source of magic - one that threatened the Shadowlands and beyond. As strange reports of Gorak Tul and Gorak Zhar once again stir in both Drustvar and Ardenweald, Death Knight and Warlock champions have been called upon to venture into the Blight Lands of Thros. Soulsmith: In the absence of a Jailer, Torghast and its workings seem to function differently than before. Noting this disturbance, Bolvar Fordragon states that valuable resources remain untapped. A prominent fiery wing of Torghast, the Soulforges, was once used to smelt souls into weaponry and armour. Rather than letting the cinders and ashes of souls go to waste, it would only seem fitting to study schematics deep within its halls and forge armaments for the champions of Azeroth.]"/> <!-- ClassSkin DeathKnight Lore -->
 
 For the Blightreaver, I really wanted to capture something that felt in line with the Death Knight design and could help tie up some loose ends with the Drust storyline. The ending of Gorak Tul has always felt a little... not great. He basically dies at the end of a dungeon, and is then finished off in a small portion of Thros in a campaign quest - something only the Alliance saw. I felt it may be nice to bring better closure (or build up more) to the Drust story and lore, including giving more of a feature of Thros and the sort of "society" outside of its invasion points of Ardenweald and Drustvar.
 
@@ -241,13 +241,13 @@ _After securing an Ethereal Decoder with the aid of the Uncrowned, the Illidari 
 
 _After detecting demonic activity on the planet of Xoroth, the Illidari enlist the aid of the Black Harvest to infiltrate the former Legion world. Guided by the imprisoned Nathrezim, Ulthalesh, the Illidari and their warlock allies discover the origins of xoroth's fall and the dormant weapon left behind by the Mad Titan millennia ago. Fate will tell if these demonic magic-wielding heroes can rise to the threat which looms over a planet of conflict and strife._
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/K7DiC" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230359-0a8089d6.jpg" alt="[A pair of Demon Hunters, displaying a concept for Flamereaper and Soulhunter. The Flamereaper wields bright hellfire, and the Soulhunter wields dark purple shadow magic.]"/> <!-- ClassSkin DemonHunter -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/lEejP" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230401-a433dd09.jpg" alt="[A Night Elf Flamereaper displaying various features. 1: Go on an excursion to Xoroth to investigate an odd ceasefire and defeat a powerful foe. 2: Cosmetic fiery abilities. 3: New Metamorphosis appearance.]"/> <!-- ClassSkin DemonHunter Flamereaper -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/og7vf" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230405-be5bdc48.jpg" alt="[A Blood Elf Soulhunter displaying various features. 1: Though fel magic is a staple to Demon Hunters, some primarily choose to utilise the void as well. 2: Cosmetic shadowy abilities. 3: New Metamorphosis appearance.]"/> <!-- ClassSkin DemonHunter Soulhunter -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/9dwKj" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230403-f2d6ee46.jpg" alt="[Lore snippets for Soulhunter and Flamereaper. Soulhunter: After securing an Ethereal Decoder with the aid of the Uncrowned, the Illidari tracked a Naaru vessel commandeered by a rogue ethereal cartel. With the leaders of the Uncrowned in hot pursuit of the shadowy Crime Lords, the Illidari turn their attention to the Naaru detention block that held a vast collection of void-shrouded entities. With the void prisoners slowly tearing away the foundation of the ship, the Illidari find themselves in a unique position to study the void as they did the fel. Flamereaper: After detecting demonic activity on the planet of Xoroth, the Illidari enlist the aid of the Black Harvest to infiltrate the former Legion world. Guided by the imprisoned Nathrezim, Ulthalesh, the Illidari and their warlock allies discover the origins of xoroth's fall and the dormant weapon left behind by the Mad Titan millennia ago. Fate will tell if these demonic magic-wielding heroes can rise to the threat which looms over a planet of conflict and strife.]"/> <!-- ClassSkin DemonHunter Lore -->
 
 These two concepts of Demon Hunter actually build off of their already-established magic, it's just mainly to lean into both a little bit more. Shadowy abilities are already seen heavily with abilities such as Darkness, Netherwalk, Spirit Bomb, Soul Cleave, and the consumption of souls with Soul Fragments. Almost all of the shadowy abilities seem to have "Soul" in common, and so I felt it only natural to base its namesake upon such. 
 
@@ -284,13 +284,13 @@ _After aiding the Dark Irons in transcribing some of Fandral Staghelm's old text
 
 _Naralex, Muyoh, and his disciples discover the Botani in the depths of the Wailing Caverns below the Barrens. Though they attempted to thwart their efforts to channel the remnants of the Overgrowth into a new genesaur seed, they ultimately retreated. Now they call upon brave adventurers on an opportunity to defend the balance of Nature and learn just how deadly the realms of Life can be._
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/tCdAN" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230410-0fb031c5.jpg" alt="[A pair of Druids, displaying a concept for Druid of the Flame and Druid of the Fang. The Druid of the Flame wields fiery sun magic paired with a flaming cat form and solar bird flight form, while the Druid of the Fang wields green snaring roots with a flying wind serpent flight form, a tattooed snake form, and a tiger saberon form.]"/> <!-- ClassSkin Druid -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/9J3GP" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230414-d79a9d55.jpg" alt="[A Night Elf Druid of the Flame displaying various features. 1: Brave the Firelands with the Dark Iron Dwarves and gain the trust of Smolderon the Firelord. 2: Cosmetic flame abilities. 3: Druid of the Flame shapeshift forms. 4: Unlock Night Elf Shaman.]"/> <!-- ClassSkin Druid Flame -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/JQMQR" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230412-34ce586f.jpg" alt="[A Troll Druid of the Fang displaying various featuers. 1: Join Naralex and his disciples and explore the tunnels of the Wailing Caverns below the Barrens. 2: Cosmetic primal abilities. 3: Druid of the Fang shapeshift forms.]"/> <!-- ClassSkin Druid Fang -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/sSqmy" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230416-4db41c99.jpg" alt="[Lore snippets for Druid of the Flame and Druid of the Fang. Druid of the Flame: After aiding the Dark Irons in transcribing some of Fandral Staghelm's old texts, the Cenarion Druids of the kaldorei join the Dark Irons in their expedition into the Firelands. They discover a small sect of former Staghelm loyalists, now enslavead by High Justice Grimstone, as he attempts to dethrone Smolderon and resurrect what he believes to be the true lord of the Firelands. Druid of the Fang: Naralex, Muyoh, and his disciples discover the Botani in the depths of the Wailing Caverns below the Barrens. Though they attempted to thwart their efforts to channel the remnants of the Overgrowth into a new genesaur seed, they ultimately retreated. Now they call upon brave adventurers on an opportunity to defend the balance of Nature and learn just how deadly the realms of Life can be.]"/> <!-- ClassSkin Druid Lore -->
 
 These two concepts were something that immediately came to mind which weren't necessarily racially tied.  The Druids of Flame were previously seen allied to Ragnaros in the Firelands raid, while the Druids of the Fang were former followers of Naralex that became corrupted by the Emerald Dream. Say for example that the same process happened with the Druids of the Flame, but with the new Firelord Smolderon, hypothetically these druids may be more willing to ally themselves. Given that the flame cat form is an option available to druids already, it doesn't seem too far fetched. Similar can be said about the followers of Naralex - he can always get more, and with how wild the oases magic is in the Wailing Caverns, perhaps their shapeshift forms were something that occurred before their corruption. I felt that this could also be an opportunity to tie in some lore to none other than the Dark Irons and the Botan. The Dark Irons could establish closer relations to the Night Elves as well as provide more drama and split factions within the Darnassians who may wish to embrace revenge for Teldrassil. The Botani and Saberon are a loose thread that were set free to roam upon the Barrens, last seen in the Mag'har Orc scenario. It seems only fitting to tie them in for the return of the long-requested saberon shapeshift forms and pick up on that story.
 
@@ -307,13 +307,13 @@ _Much mystery surrounds the bow of Stars' Fury, Thori'dal. Resurfaced texts indi
 
 _During the third invasion of the Burning Legion and Fourth War, new generations of Dark Rangers were raised. Though some remained loyal to the Banshee Queen, most reflected upon her betrayal and chose new leadership. With the overpowering presence of the Lich King silent, many undead threaten to swarm the world. Crossing paths with the Ebon Blade, many Dark Rangers identified a common goal with the Death Knights. Join these dark forces in cleansing Lordaeron of the feral scourge._
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/8OA63" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230429-7a95553a.jpg" alt="[A pair of Hunters, displaying a concept for Spellbow and Dark Ranger. The Spellbow wields bright pink arcane magic, while the Dark Ranger wields a darker void-like necrotic magic.]"/> <!-- ClassSkin Hunter -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/7HKcF" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230435-59287664.jpg" alt="[A Human Spellbow displaying various features. 1: The Kirin Tor, Silver Covenant, and the Farstriders seek to revive the teachings of the Arcane Fletchers. 2: Cosmetic magical abilities. 3: New hunter pet tames (arcane spellwing). 4: Restore and reforge Thori'dal.]"/> <!-- ClassSkin Hunter Spellbow -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/ipUf2" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230431-fc823cfa.jpg" alt="[A Blood Elf Dark Ranger displaying various features. 1: Learn what it means to be a Dark Ranger, their source of power, and what lies beyond in the future. 2: Cosmetic dark ranger abilities. 3: Dark Ranger customisation options. 4: New hunter pet tames (maw hound / skeletal darkhound).]"/> <!-- ClassSkin Hunter DarkRanger -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/gxfm2" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230433-4784bcd4.jpg" alt="[Lore snippets for Spellbow and Dark Ranger. Spellbow: Much mystery surrounds the bow of Stars' Fury, Thori'dal. Resurfaced texts indicate it was first crafted on the shores of the Well of Eternity by an ancient order of Highborne archers known as Arcane Fletchers. With the help of the Kirin Tor, hunters will accompany the Silver Covenant and the Farstriders in their mission to uncover the weapons mysterious history. Travel to Eldre'Thalas, Suramar, the Sunwell, and beyond to learn of its past and decide its future. Dark Ranger: During the third invasion of the Burning Legion and Fourth War, new generations of Dark Rangers were raised. Though some remained loyal to the Banshee Queen, most reflected upon her betrayal and chose new leadership. With the overpowering presence of the Lich King silent, many undead threaten to swarm the world. Crossing paths with the Ebon Blade, many Dark Rangers identified a common goal with the Death Knights. Join these dark forces in cleansing Lordaeron of the feral scourge.]"/> <!-- ClassSkin Hunter Lore -->
 
 The spellbow is probably the one I've personally wanted the most. However funny enough, I wasn't actually sure how they should be implemented. I saw some Hearthstone art of the [Arcane Fletcher](https://hearthstone.wiki.gg/wiki/Arcane_Fletcher), and some of the concept work helped form the idea of how animations could vary more than just making arrows glow. In some of the art that's made more clear in concept work, arrows actually hover and float around the hunter, ready to be launched. This provided the key in some of the design, which could act similar to a Frost Mage's Icicles. Rapid Fire could not only be a volley of arrows launched from the bow, but around the Hunter's general vicinity as well. I also felt that this was a good opportunity to build upon the lore of Thori'dal, which essentially has nothing other than being a Sunwell bow currently in possession of the Blood Elves. Based upon the lore that elven weapons are made stronger when reforged, I wanted to extend that to Thori'dal. Not only would it illuminate its past and its creation, I wanted to also offer more appearances that can fit more races than its current Alliance / High Elven scheme, similar to the Artifact weapons. Therefore, the idea with reforging the bow comes with literally reforging it in various magical wells across the world, such as the Sunwell, Hyjal, the leftover bit of the Nightwell, and so on. Of course, all colours would be available to choose from, but in lore effectively the hunter would choose a bow and it would receive a colouration befitting the magical well it was reforged in. By the end of the storyline, the Hunter would be a sufficient Spellbow, and return the bow to a neutral-ground area that unites together the involved factions. I think in the end, the usage of transmogrification would be literally in use rather than having the actual bow (and an actual legendary as a form of gameplay player power when Class Skins are meant to be purely cosmetic). After all, transmogrification literally exists in lore, so I don't see why not to use it.
 
@@ -330,13 +330,13 @@ Tragedy befalls the Azurewing after a beloved dragon passes. Determined to play 
 
 When the veil shattered above Azeroth, so too did the flow of reality. It is not known when or why, but the Infinite Dragons appear to have stirred the timelines once again. Seeking dangerous and powerful artifacts throughout time, it is up to the champions with the aid of the Bronze Dragonflight to stop the unmaking of history. Time will tell if they are truly successful.
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/drTsa" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230444-19b78cd6.jpg" alt="[A pair of Mages, displaying a concept for Azuresworn and Chronomancer. The Azuresworn wields bright blue fiery magic, while the Chronomancer wields a bright yellow sand-like magic.]"/> <!-- ClassSkin Mage -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/7lEM3" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230448-4cba305c.jpg" alt="[A Gnome Azuresworn displaying various features. 1: The Blue Dragonflight is ready to guide mortals and teach them ancient Titanic magic. 2: Cosmetic Blue Fire abilities. 3: Draconic customisation options. 4: Unlock a draconic flight form.]"/> <!-- ClassSkin Mage Dragonsworn -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/jgi4a" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230446-1ffb5f4c.jpg" alt="[A Blood Elf Chronomancer displaying various features. 1: Cross other timelines to aid the Bronze Dragonflight and witness the ordering of Time. 2: Cosmetic Chronomancy abilities. 3: Draconic customisation options. 4: Unlock a draconic flight form.]"/> <!-- ClassSkin Mage Chronomancer -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/HEoYg" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230450-dc9433f6.jpg" alt="[Lore snippets for Azuresworn and Chronomancer. Azuresworn: Tragedy befalls the Azurewing after a beloved dragon passes. Determined to play a more active role as custodians of magic, the Blue Dragonflight return to the affairs of mortals. As part of the funerary rites, Valtrois and a champion are given the opportunity to learn blue dragonfire. In the wake of her grandfather's natural end, Stellagosa contemplates her relationships and future as heir of the Azurewing leadership. Chronomancer: When the veil shattered above Azeroth, so too did the flow of reality. It is not known when or why, but the Infinite Dragons appear to have stirred the timelines once again. Seeking dangerous and powerful artifacts throughout time, it is up to the champions with the aid of the Bronze Dragonflight to stop the unmaking of history. Time will tell if they are truly successful.]"/> <!-- ClassSkin Mage Lore -->
 
 Blue fire is another concept I've wanted to see, and felt it fitting to tie it in as part of a Blue Dragonfire quest. From there, it was about deciding which particular location, and I felt that revisiting the Azurewing was more interesting than going to the Nexus yet again. It's established that Senegos is particularly the oldest of the dragons, so we know that his end is also coming at some point as well. I wanted to peer more into the relationship between Valtrois and Stellagosa, as well as take a look at how dragon culture handles the funeral of their leaders and what sort of roles are expected of a leader of dragons.
 
@@ -353,13 +353,13 @@ _After detecting an unknown surge somewhere north of Uldum, the Uldum Accord, th
 
 _As the planet reels from the Blood War, the Elemental Lords seek assistance in calming their restless kin. Determined to tap into the largely-absent element of Spirit to calm the four planes, the Earthen Ring calls upon the Monks, masters of the element of Spirit, to guide them in their quest. As monks embark on this quest to further their connection to all elements, shamans accompanying the monks discover the long-hidden secrets of Azeroth's most finite element: Spirit._
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/ne3KE" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230452-6dd63f24.jpg" alt="[A pair of Monks, displaying a concept for Runemaster and Elementalist. The Runemaster wields multi-colored magical runes of arcane, frost, and fire, while the Elementalist wields water, fire, air, and earth magics.]"/> <!-- ClassSkin Monk -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/aEePI" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230459-81ade6ae.jpg" alt="[A Tauren Runemaster displaying various features. 1: Join a band of Archaeologists in search of Titan knowledge and the origins of Tauren legends. 2: Cosmetic runic abilities. 3: Runemaster Tattoo customization. 4: Unlock Tauren Mages.]"/> <!-- ClassSkin Monk Runemaster -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/mQ2yt" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230454-29025308.jpg" alt="[A Dwarf Elementalist displaying various features. 1: Masters of Spirit, Monks are called upon by the Earthen Ring to calm Azerite-afflicted Elementals. 2: Cosmetic elemental abilities. 3: New Farseer's Raging Tempest skins.]"/> <!-- ClassSkin Monk Elementalist -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/EVtgD" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230456-de2dd572.jpg" alt="[Lore snippets for Runemaster and Elementalist. Runemaster: After detecting an unknown surge somewhere north of Uldum, the Uldum Accord, the Reliquary, and the Explorer's League have rallied heroes and archaeologists alike to delve into an unexplored vault. Uncovered within are the origins of titanic runic magic, an undiscovered workshop of Highkeeper Ra-Den, and a mysterious tribe of rune-wielding Tauren who've settled within the cliffs between Un'goro and Thousand Needles. Elementalist: As the planet reels from the Blood War, the Elemental Lords seek assistance in calming their restless kin. Determined to tap into the largely-absent element of Spirit to calm the four planes, the Earthen Ring calls upon the Monks, masters of the element of Spirit, to guide them in their quest. As monks embark on this quest to further their connection to all elements, shamans accompanying the monks discover the long-hidden secrets of Azeroth's most finite element: Spirit.]"/> <!-- ClassSkin Monk Lore -->
 
 Heavily inspired by the [RPG class Runemaster](https://warcraft.wiki.gg/wiki/Runemaster), and given the sort of overlap they have with Monks, I wanted to primarily gear this towards them. What I also realised was that much of the concept is essentially a fistfighting mage, and it would also be a good opportunity to introduce Tauren mages. Although much of the art features the Tauren, it's not necessarily been something locked specifically to the race. Initially in concept for their introduction, Jesse brought up that they would be discovered along the border of Uldum and Un'goro due to its Titan influences. However, I disagreed with this as there isn't very much space allowing for their inclusion in the game world - at least not without digging deep into the ground. Instead, I proposed the location between Un'goro and Thousand Needles. It's not too far fetched to discover any Titan facilities nearby, given the waygate right next to the location. Plus, there was a giant location of empty space and a large mountain that seems to be the second highest on Kalimdor. Given these factors, I felt if there were any location, it should probably be this.
 
@@ -378,13 +378,13 @@ _When Denathrius betrayed the venthyr, a schism divided the people of Revendreth
 
 _A future of the Kyrian looks as bright and promising as ever as the Forsworn rejoin the Ascended and the tenets of Compassion and Devotion make their mark. Searching the archives, inspired mortals uncover a series scripture that predate the Trials of Bastion. Texts describe how the Archon imbued the first Kyrian with the ability to traverse the Veil. With each Paragons' help, the most devoted and compassionate of Azeroth's children are granted the very essence of the role of the Kyrian Watchers._
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/oOhB4" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230509-84605806.jpg" alt="[A pair of Priests, displaying a concept for Sinshaper and Soulmender. The Sinshaper wields red-colored shadow magic, while the Soulmender wields blue-colored holy/arcane magic.]"/> <!-- ClassSkin Priest -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/N7uDB" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230513-8b609d61.jpg" alt="[A Blood Elf Sinshaper displaying various features. 1: Uncover Nathrezim plots and discover the first San'layn. 2: Cosmetic Vampyric abilities. 3: San'layn customisation options.]"/> <!-- ClassSkin Priest Sinshaper -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/gUHR9" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230515-8823387f.jpg" alt="[An Undead Soulmender displaying various features. 1: Traverse the Veil and understand the creation of the Watchers. 2: Cosmetic Kyrian abilities. 3: Kyrian customisation options.]"/> <!-- ClassSkin Priest Soulmender -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/PGXHH" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230511-ae445f8f.jpg" alt="[Lore snippets of Sinshaper and Soulmender. Sinshaper: When Denathrius betrayed the venthyr, a schism divided the people of Revendreth. Much remains in question of what is to become of the land of pride with its Eternal One dethroned. With the Nathrezim awakened to the call of their master, adventure and mystery take a champion of the Venthyr to uncover plots and schemes. Along the way, the origins of the San'layn and the first Azerothian Vampyr curse become unveiled. Soulmender: A future of the Kyrian looks as bright and promising as ever as the Forsworn rejoin the Ascended and the tenets of Compassion and Devotion make their mark. Searching the archives, inspired mortals uncover a series scripture that predate the Trials of Bastion. Texts describe how the Archon imbued the first Kyrian with the ability to traverse the Veil. With each Paragons' help, the most devoted and compassionate of Azeroth's children are granted the very essence of the role of the Kyrian Watchers.]"/> <!-- ClassSkin Priest Lore -->
 
 Frankly, the primary reason I wanted to explore this was for San'layn lore. Given that we have their progenitors, the Venthyr Vampyrs, and they were featured during BFA, it seems odd that there's so little information divulged about them. The connection to the Nathrezim, the current leadership and lack of an Eternal One, and what's going to happen felt like a nice tie-in to everything. Additionally, it could also double as a sort of homage to the [Bloodmage / Blood Wizard](https://warcraft.wiki.gg/wiki/Defias_Blood_Wizard) (not necessarily to be confused with the [Blood Elf Blood Mage](https://warcraft.wiki.gg/wiki/Blood_mage)) and has a lot of other blood magic casters it could fit, such as various other troll, [human](https://warcraft.wiki.gg/wiki/Blood_Wizard), [orc](https://warcraft.wiki.gg/wiki/Bleeding_Hollow_clan), and even [gnome ](https://warcraft.wiki.gg/wiki/Kasim_Sharim)blood magic users. Though blood magic is more geared towards the vampyr curse that afflicts Vrykul, Human, and Elves, it didn't feel right to limit such to only one or two races. The San'layn options might be shown only on Elves, but it doesn't mean that it's locked to only them. They're just the strongest concept to show off. There would likely be a lot of overlap with the Dark Ranger customisations in this case as well, given the red eye and necrotic skin options, so they would likely just unlock the same thing.
 
@@ -403,13 +403,13 @@ Felblade
 
 After being discretely hired to track down the stolen Warlock artifact, the Skull of the Man'ari, the leader of the Uncrowned finds themself teaming up with an unlikely ally: Val'zuun. It was in fact he who took Thal'kiel's skull and intended to summon himself to a Legion world to track down and defeat an old enemy. Along the way and by a twist of fate, it turns out that Val'zuun was not the only man'ari defector who sought to one day bring a permanent end to the Burning Legion.
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/cvGCb" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230517-0fe3dcff.jpg" alt="[A pair of Rogues, displaying a concept for Nightblade and Felblade. The Nightblade is surrounded in shadowy smoke magic and colored purple, while the Felblade is colored green and in a cloak of fel magic.]"/> <!-- ClassSkin Rogue -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/r5WGi" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230531-1d21bb35.jpg" alt="[A Night Elf Nightblade displaying various features. 1: Join the Ethereals in a grand, cosmic heist and obtain valuable secrets in an astral war. 2: Cosmetic Shadowy abilities. 3: Personal hideout location (Tazavesh)]"/> <!-- ClassSkin Rogue Nightblade -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/I94yL" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230519-d53bded9.jpg" alt="[A Blood Elf Felblade displaying various features. 1: A man'ari informant from the Dalaran Underbelly returns with an unusual proposal. 2: Cosmetic fel abilities. 3: Demonic tattoo customisation.]"/> <!-- ClassSkin Rogue Felblade -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/OvrqW" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230524-23994bef.jpg" alt="[Lore snippets of Nightblade and Felblade. Nightblade: After assisting the Illidari in securing a rare Ethereal Decoder, the Uncrowned join the Demon Hunters on board the Fel Hammer and give chase to a rogue ethereal cartel. As the Illidari move to secure the breached detention levels, the Uncrowned chase after a notorious ethereal crimelord on board a hijacked Naaru vessel. Dodging traps, security measures, and traversing an endless maze of ethereal portals, mastery of stealth and subterfuge will be the ultimate test of survival. Felblade: After being discretely hired to track down the stolen Warlock artifact, the Skull of the Man'ari, the leader of the Uncrowned finds themself teaming up with an unlikely ally: Val'zuun. It was in fact he who took Thal'kiel's skull and intended to summon himself to a Legion world to track down and defeat an old enemy. Along the way and by a twist of fate, it turns out that Val'zuun was not the only man'ari defector who sought to one day bring a permanent end to the Burning Legion.]"/> <!-- ClassSkin Rogue Lore -->
 
 It's pretty often that rogues, particularly Subtlety spec, are more heavily based upon a nondescript Shadow. I wanted to provide an opportunity to really delve into it and go on a more crazy adventure. Paired up with the Demon Hunter Soulhunter skin, I felt this would be a good opportunity to explore that aspect. Although the name (and by extent part of the character design) is based upon the [Hearthstone Nightblade](https://hearthstone.wiki.gg/wiki/Nightblade), it's not actually meant as a Night Elf-specific skin and has been built a bit beyond that concept. A bit unique to this one would be a proposed small Tazavesh room / bar. It isn't supposed to necessarily act as player housing however, but perhaps more of an early prototype or something akin to just a small roleplay / hearth location not too unlike the Vindicaar.
 
@@ -428,13 +428,13 @@ _When word of the elemental plight reached Kezan, the new Mogul of the Venture C
 
 _After harmonizing the raging elements with the help of the Monk Order, Magni calls upon champions to join him in the Chamber of the Heart. MOTHER informs that the shattering of the Veil caused an unnatural surge of energy, stirring the World Soul. Spirit and Decay begin to gather and bind to a large pocket of pooled Azerite. If left unchecked, Azeroth's lifeblood could manifest into a twisted elemental lord with the unrestrained potential of a slumbering World Soul._
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/XjVM9" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230539-b37f7ad3.jpg" alt="[A pair of Shaman, displaying a concept for Electrician and Champion of Azeroth. The Electrician is utilizing lightning magic via technology, while the Champion of Azeroth utilizes gold-blue Azerite magic.]"/> <!-- ClassSkin Shaman -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/TL3j8" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230602-c4e69008.jpg" alt="[A Goblin Electrician displaying various features. 1: Adventure with the goblins and gnomes in stopping the shenanigans of the Venture Company. 2: Cosmetic Electro-tinker abilities. 3: New totem customisations.]"/> <!-- ClassSkin Shaman Tinker -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/3FAu4" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230546-f9a53f92.jpg" alt="[A Draenei Champion of Azeroth displaying various features. 1: Join Magni Bronzebeard and the Shaman and Monk Orders to begin healing some critical wounds. 2: Cosmetic Azerite abilities. 3: Heart of Azeroth necklace options. 4: New totem customisations.]"/> <!-- ClassSkin Shaman Azerite -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/9u3Yk" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230555-9ae96725.jpg" alt="[Lore snippets of Electrician and Champion of Azeroth. Electrician: When word of the elemental plight reached Kezan, the new Mogul of the Venture Co. set out in search of power. Sent uncover, adventurers 'join' the Venture Co. on a mission: Travel to the Isle of Thunder and delve into a Mogu vault housing a thunder-infused gauntlet. After recovering the Thunder King's relic, the Venture Co. will regroup with- wait, do they seriously plan to infiltrate Skywall and steal Thunderaan's sceptre while he rests? For the sake of Azeroth's thunderstorm regions, the Earthen Ring better act quickly. Champion of Azeroth: After harmonizing the raging elements with the help of the Monk Order, Magni calls upon champions to join him in the Chamber of the Heart. MOTHER informs that the shattering of the Veil caused an unnatural surge of energy, stirring the World Soul. Spirit and Decay begin to gather and bind to a large pocket of pooled Azerite. If left unchecked, Azeroth's lifeblood could manifest into a twisted elemental lord with the unrestrained potential of a slumbering World Soul.]"/> <!-- ClassSkin Shaman Lore -->
 
 The Electrician skin is more geared towards a sort of engineering aspect, similar to how a Goblin Shaman and their totems work, but much more focused upon the electrical component. The idea isn't to necessarily forceful use the elements like a Dark Shaman (or most engineers) necessarily would, but instead to utilise technology that enhances and guides normal elemental casting. In this particular instance, the lightning component of Air is channeled. The same basic rules of shamanism would still apply. Using the Mogu / Venture Company's tech against them while working with the air elementals, the shaman becomes an ultimate conduit for their fury. Hypothetically, an engineer of every element could exist but I just liked the pun.
 
@@ -451,15 +451,15 @@ _Having witnessed the unrelenting might of Maldraxxus in both the Scourge armies
 
 _While some members of the Black Harvest ventured into Maldraxxus in search of new power, others turned their gaze to a different source of power - one that threatened the Shadowlands and beyond. As strange reports of Gorak Tul and Gorak Zhar once again stir in both Drustvar and Ardenweald, Death Knight and Warlock champions have been called upon to venture into the Blighted Lands of Thros._
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/5iOIw" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230655-b82b8b87.jpg" alt="[A pair of Warlocks, displaying a concept for Necromancer and Drustweaver. The Necromancer is utilizing a green necrolord magic, while the Drustweaver utilizes a black-and-light blue lightning-like Drust magic.]"/> <!-- ClassSkin Warlock -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/JvaMF" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230720-999ce77f.jpg" alt="[A Human Necromancer displaying various features. 1: Delve into the ancient knowledge of Maldraxxus nad learn about the origins of Necromancy. 2: Cosmetic Necromantic abilities. 3: New Undead minion appearances (small skeleton, green soul-like voidwalker). 4: Necromancer skin customisation.]"/> <!-- ClassSkin Warlock Necromancer -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/F1p3s" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230703-336b0b81.jpg" alt="[A Kul Tiran Drustweaver displaying various features. 1: Venture to Thros, the Blighted Lands to uncover the insidious schemes of the awakened Drust. 2: Cosmetic Drust abilities. 3: New Wicker minion appearances (a wicker-hound felhunter). 4: Unlock Kul Tiran Warlocks.]"/> <!-- ClassSkin Warlock Drustweaver -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/Tjkfg" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230710-08d4d465.jpg" alt="[Lore snippets of Necromancer and Drustweaver. Necromancer: Having witnessed the unrelenting might of Maldraxxus in both the Scourge armies and the Shadowlands campaign, the mortals of Azeroth have taken a keen interest in the birthplace of Necromancy. With the Council of the Black Harvest now reconvened and the Ebon Blade seeking to rebuild their ranks, these two otherwise mistrusted organisations have united in their pursuit of power. Drustweaver: While some members of the Black Harvest ventured into Maldraxxus in search of new power, others turned their gaze to a different source of power - one that threatened the Shadowlands and beyond. As strange reports of Gorak Tul and Gorak Zhar once again stir in both Drustvar and Ardenweald, Death Knight and Warlock champions have been called upon to venture into the Blighted Lands of Thros.]"/> <!-- ClassSkin Warlock Lore -->
 
-The Necromancer is probably the one I'm most excited to show off, and the one I worked on first. I've long posited the concept that a Necromancer could work very well with just a "simple reskin of their demon minions into undead." Maldraxxus and the Primus is likely my favourite zone / covenant, and it would be a shame if the opportunity for both a Necromancer and the Necrolords lore wasn't carried forward in the expansions to come. Additionally, I know that the Necromancer / "old death knight" options (such like [Thassarian ](https://warcraft.wiki.gg/wiki/Thassarian)has) are a long-requested customisation option, and this would be a decent opportunity to introduce such. You could indeed look exactly like [Jandice Barov](https://warcraft.wiki.gg/wiki/Jandice_Barov).
+The Necromancer is probably the one I'm most excited to show off, and the one I worked on first. I've long posited the concept that a Necromancer could work very well with just a "simple reskin of their demon minions into undead." Maldraxxus and the Primus is likely my favourite zone / covenant, and it would be a shame if the opportunity for both a Necromancer and the Necrolords lore wasn't carried forward in the expansions to come. Additionally, I know that the Necromancer / "old death knight" options (such like [Thassarian](https://warcraft.wiki.gg/wiki/Thassarian) has) are a long-requested customisation option, and this would be a decent opportunity to introduce such. You could indeed look exactly like [Jandice Barov](https://warcraft.wiki.gg/wiki/Jandice_Barov).
 
 The Drustweaver is essentially the same exact thing as the Blightreaver, there's not much to say about it. The Wicker minions work well for the warlock (given that they share animations with the Felstalkers) and would be different from the more fleshy minions that the Death Knights control.
 
@@ -476,13 +476,13 @@ _Much has changed since Deathwing ravaged the world. Now, in the years following
 
 _Legendary are the skills of Blademasters throughout history, as are the weapons they wield. Often adventurers seek these armaments, not realising the true technique of the blade. Although at first reluctant, an old half-draenei half-orc blademaster agrees to teach not only how to forge the special fiery swords of war, but also the weaving of magic and blade. Only the truly resilient and prepared warriors will pass his training._
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/BBATJ" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230728-d1e38934.jpg" alt="[A pair of Warriors, displaying a concept for Dragonsworn and Blademaster. The Dragonsworn is utilizing a red fiery breath, while the Blademaster has mirror images and a large flaming sword.]"/> <!-- Classskin Warrior -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/jHPdf" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230744-30a731c2.jpg" alt="[A Pandaren Dragonsworn displaying various features. 1: Prove your worth as a defender of dragons, championing their cause and gain their favor as a dragon rider. 2: Cosmetic draconic abilities. 3: New tattoo customisations. 4: Renewed dragon mounts.]"/> <!-- ClassSkin Warrior Dragonsworn -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/BdiSN" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230735-7b6c6b4d.jpg" alt="[An Orc Blademaster displaying various features. 1: Join an old Blademaster in combat, celebration, and forging the perfect weapon befitting a warrior. 2: Cosmetic Blademaster abilities. 3: New tattoo customisations.]"/> <!-- ClassSkin Warrior Blademaster -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/39yWB" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230752-6f346e3e.jpg" alt="[Lore snippets of Dragonsworn and Blademaster. Dragonsworn: Much has changed since Deathwing ravaged the world. Now, in the years following N'Zoth's defeat, his own progeny seeks to unite two of Azeroth's greatest protectors: the disparate Titanforged races and the scattered dragonflights. With the mortal races called to serve as intermediaries, those who answer Wrathion's call will learn of Azeroth's earliest Dragonriders and the order that was founded by Tyr in the days following the blessing of the Aspects. Blademaster: Legendary are the skills of Blademasters throughout history, as are the weapons they wield. Often adventurers seek these armaments, not realising the true technique of the blade. Although at first reluctant, an old half-draenei half-orc blademaster agrees to teach not only how to forge the special fiery swords of war, but also the weaving of magic and blade. Only the truly resilient and prepared warriors will pass his training.]"/> <!-- ClassSkin Warrior Lore -->
 
 The Dragonsworn has been a concept I've been thinking about for a bit, inspired by some of the dragon-based abilities Warriors have had before. It's probably no surprise that some particular class skins play a bit into building potential next expansion plotlines, and that's intentional. For the past while, the Dragon Isles has been hinted at a bit every now and again. However, this would also revisit some of my favourite bit of lore regarding the [Dragon Riders of Loreth'Aran](https://warcraft.wiki.gg/wiki/Dragon_Riders_of_Loreth%27Aran). For example, what did these dragon riders do to be blessed by Ysera? Can the same be done with the other dragonflights? What of the wrongdoings of the Dragonmaw and Vrykul? 
 
@@ -497,7 +497,7 @@ Many of the ideas are to still maintain a sort of "Paladin" ideal - that is, a w
 
 There were other decisions I had instead scrapped because I felt it may steal from the uniqueness of others, such as a Tauren Mu'sha "Moonwalker" skin. I didn't want to potentially anger people with featuring such as a "main option," so I stuck with just Sunwalker.
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/9iCZv" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230900-3612c506.jpg" alt="[Image of a Highmountain Tauren in Kyrian armor, and a caption: This was the point when Jesse decided 'Let me choose the transmog.' RIP Kyrian Mountain Moose.]"/> <!-- kyrianmoose -->
 
 Some, such as the Forsaken, were something I wanted a lot more heavily and had actually disagreements on how to implement such in lore. What I don't want to do is say "Forsaken are under the leadership of Calia" however. I had written some notes here on a "lore backstory":
 
@@ -507,15 +507,15 @@ _The Cult of Forgotten Shadows have begun to experiment with creating an opposit
 
 _(Also something something creation of more human-like Forsaken like Derek Proudmoore, Calia Menethil, and Nathanos Blightcaller as a new allied race / customisation option complete with human skeleton and the like.)_
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/fsEoS" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230856-608e2e25.jpg" alt="[The Forsaken racial crest Icon of Torment with a 'mended' Holy Light face where the split mask usually is missing.]"/> <!-- iconoftorment -->
 
 The Mechaknight underwent a few different variations. I was trying to test an idea where they utilise a mix of Titan and Mechagon Hologram tech. Ultimately, the more "holy" Titan theme was scrapped in favour of a more Lightning theme seen with Mimiron's creations.
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/c5By3" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230906-7437858b.jpg" alt="[A Mechagnome Paladin wielding a large mechanical mace emanating a golden glow.]"/> <!-- mechaknight1 -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/6K4Qv" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230911-0f0bc6a3.jpg" alt="[A Mechagnome Paladin wielding a large mechanical mace emanating a teal blue glow.]"/> <!-- mechaknight2 -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/6GNcR" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230915-690ea5d0.jpg" alt="[A Mechagnome Paladin wielding a large mechanical mace emanating a light blue glow.]"/> <!-- mechaknight3 -->
 
 I had previously made mention in other tweets as well regarding [Void Paladins](https://twitter.com/keyboardturn/status/1431826171214196741), and that was approximately the time where I decided to try testing out a Class Skin overview.
 
@@ -523,11 +523,11 @@ My plans for the original Class/Race combos started much earlier as well, where 
 
 Some concepts felt like they needed to be really emphasised more than others. For example, I often saw the complaint that Blood Elves felt "tuned down" once Sunwell concluded, and I wanted to figure out a way to rekindle that as well as tie it into Void Elf lore. Void Elves were also the first that I had worked on.
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/VPY6W" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230848-b50ad408.jpg" alt="[The previously displayed elven paladins, representing a Sunblade, Riftblade, and Blood Knight.]"/> <!-- elfpaladins -->
 
 These ideas also didn't technically leave humans out as well, but I didn't want to make it the "main feature" of a human paladin class skin. The idea is more mainly because Kul Tiran humans exist as more than the playable versions, and I felt it may be neat to at least acknowledge that.
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/CAz5X" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230853-5c16252f.jpg" alt="[The Kul Tiran House banners for Stormsong (Tidesages) and Waycrest (Order of Embers).]"/> <!-- humanbanners -->
 
 There are also other ideas that I scrapped because I wanted to showcase them alongside other races instead, as they felt less racial-specific. One example is the Darkspear & Zandalari Trolls - Originally I was going to just have it be a Sand Troll and Darkspear, but it felt bad not including the Zandalari who brought in the idea of a Prelate.
 
@@ -538,72 +538,72 @@ Below are some other WIP shots and some of the decision making that went into wh
 
 #### Azuresworn Horn Styles
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/f9OZw" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230921-dbae5020.jpg" alt="[A head of a Gnome displaying various dragon horn concepts, ranging from curled, to light blue / brown, to wider set horns.]"/> <!-- WIPShots Azuresworn -->
 
 These were the various attempts at making a pair of Azuresworn horns. Some of the initial designs were retextured Demon Hunter, but I felt it should be a bit more unique and reference closer to Senegos. These would essentially be horn helm items however. These particular horns are reshaped to fit the character silhouette better.
 
 
 #### Chronomancer Customisation Options
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/42C1J" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230927-2805ded6.jpg" alt="[A set of horns on a Vulpera, also displaying a draconic tattoo, and a set of horns on a Mechagnome. Each face has vertical slit pupil eyes]"/> <!-- WIPShots Chronomancer -->
 
 Higher resolution versions showing off the Chronomancer (Bronze Dragonsworn) options more. In particular, the tattoo texture from Nozdormu is used on the Vulpera's body.
 
 
 #### Demon Hunter Metamorphosis
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/QRzLb" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230934-a216c2e3.jpg" alt="[A red-orange and purple-colored variant of the Metamorphosis demon hunter forms.]"/> <!-- WIPShots DemonHunter -->
 
 These options are actually made to be dyeable. Some of the ideas I had were to include more horn styles and some variations of armour, but it felt like a lot of work for a short preview.
 
 
 #### Dragonsworn Mounts
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/fy7oh" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230940-44adaa44.jpg" alt="[Various dragon mounts with large saddles, ranging in colors of red, brown, teal blue, and dark green.]"/> <!-- WIPShots Dragonsworn1 -->
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/bVumh" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230947-77113406.jpg" alt="[Various dragon mounts with large saddles, ranging in colors of black, purple, white/pale green, and pink.]"/> <!-- WIPShots Dragonsworn2 -->
 
 This uses Wrathion's Drake model and retextures the colours around a bit to roughly match a more modern colour scheme but also still recall back to the vanilla drake colour options. Included are the Red, Bronze, Blue, Green, Black, Twilight, Albino, and the Dragonmaw "dragon rider" one seen in Blackrock Mountain. It's my opinion that the old dragon mount models are in need of a bit of an uprez.
 
 
 #### Druid of the Fang
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/Q1N45" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016230955-a86ee694.jpg" alt="[A series of images displaying different layers of the druid of the fang, showcasing only the hands and some background sprite green in the first figure, a higher resolution outfit with 3d geometry in the second figure, and a series of added glowing green roots in the third figure.]"/> <!-- WIPShots DruidFang -->
 
 Originally I was going to go with the base Druid of the Fang set, but I really didn't like how low resolution it was, especially with [Lady Anacondra](https://warcraft.wiki.gg/wiki/Lady_Anacondra)'s recent design in Hearthstone Mercenaries. Although it didn't come out how I wanted exactly, I felt it was still an upgrade from the old version.
 
 
 #### Elemental Mounts
 
-<img loading="lazy" src="https://droppy.thebottom.net/$/hy8hv" alt="[PH]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016231001-40e087dc.jpg" alt="[An elemental mount consisting of an earth elemental mixed with fire, water, and air in the first figure, and simply the earth elemental mount in the second image.]"/> <!-- WIPShots Elementalist -->
 
 Higher resolution versions of the Earth / Combined Elemental mount models.
 
 
 #### Rejected Runemaster Tattoos
 
-<img  loading="lazy" src="https://droppy.thebottom.net/$/OdmDT" alt="[PH]"/>
+<img  loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016231006-2a6de8a7.jpg" alt="[A series of Runemaster tattoo concepts, including arcane, vrykul, and rainbow designs. The tattoos cover the the entire body of the human character in all 5 figures.]"/> <!-- WIPShots Runemaster -->
 
 The first tattoo was actually the first one I had thought of, but felt it was too arcane / kirin tor mage rather than a runemaster. The second and third felt too vrykul, and so they're likely the designs I would use for the warrior Dragonsworn. The third and fourth felt more like a nondescript magical design that's more random rather than an organised runemaster.
 
 
 #### Runemaster Tattoo Colourations
 
-<img  loading="lazy" src="https://droppy.thebottom.net/$/Mnd9t" alt="[PH]"/>
+<img  loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016231007-0334ce03.jpg" alt="[Front/Back versions of a green, blue, and orange runic tattoo. The tatoos display somewhat less coverage on the body than previously.]"/> <!-- WIPShots Runemaster2 -->
 
 These are some of the different colourations for the Runemaster tattoo design. Ultimately I decided to mix all of them together.
 
 
 #### Runemaster Magic Colourations
 
-<img  loading="lazy" src="https://droppy.thebottom.net/$/mCfRC" alt="[PH]"/>
+<img  loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016231010-e1fc79ea.jpg" alt="[A series of different concept pieces done for the Runemaster, including a pink arcane, yellow, red, light blue, and finally mixed magic version.]"/> <!-- WIPShots Runemaster3 -->
 
 Some of the colouration attempts for the Runemaster. I still hold a special place for number 3, but I decided to just mix all of them together. In the end by coincidence it turned into the same colours as Fire, Frost, and Arcane, but this actually wasn't intentional.
 
 
 #### Thori'dal Recolours
 
-<img  loading="lazy" src="https://droppy.thebottom.net/$/FIXfO" alt="[PH]"/>
+<img  loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/16/20241016231012-2223743b.jpg" alt="[a series of thori'dal bows, ranging in colors of silver/green/blue crystals, blue/gold/silver/blue crystals, red/gold/green crystals, and purple/gold/lavender crystals.]"/> <!-- WIPShots Spellbow -->
 
 The various colours of Thori'dal, intended for Farstriders, Default (High Elves), Blood Elves, and Night Elves (or possibly Void Elves). Because this was made dyeable and uprezzed it could technically be made into any colour combination of course, these are just the ones I decided to showcase for the sake of brevity.
 
