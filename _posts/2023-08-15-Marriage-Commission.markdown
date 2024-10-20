@@ -10,17 +10,6 @@ header-img: "img/postcover/pc_0014.png"
 tags: [art, marriage-piece]
 categories: [warcraft]
 comments: false
-gallery00003: 
-  - image_path: https://kbt.thebottom.net/upload/2024/10/19/20241019165614-890cb0fd.png
-    image-caption: Nyalotha 2
-    image-copyright: © Keyboardturn
-  - image_path: https://kbt.thebottom.net/upload/2024/10/19/20241019165627-8c4fc124.png
-    image-caption: Nyalotha 4
-    image-copyright: © Keyboardturn
-  - image_path: https://kbt.thebottom.net/upload/2024/10/19/20241019165635-0618a13c.png
-    image-caption: Nyalotha 5
-    image-copyright: © Keyboardturn
----
 ---
 
 
@@ -28,13 +17,13 @@ gallery00003:
 
 A commission I made of a married couples' in-game characters.
 
-<!-- Gallery __-->
-      
-{% include subgallery.html id="gallery00003" %}
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/19/20241019165614-890cb0fd.png" alt="[A cropped view of a Highmountain Tauren Druid holding the hand of a Blood Elf Demon Hunter. The Tauren has a long beard and glowing blue horns. The Blood Elf has a blindfold on, black pigtails, and a pair of horns with pink glowing tips.]"/> <!-- Nyalotha 2 -->
 
-<!-- end of GALLERY __ -->
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/19/20241019165627-8c4fc124.png" alt="[A close view displaying only the Blood Elf Demon Hunter.]"/> <!-- Nyalotha 4 -->
 
-These are some other shots I made of the piece, not included in the initial gallery.
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/19/20241019165635-0618a13c.png" alt="[A close view displaying only the Highmountain Tauren Druid.]"/> <!-- Nyalotha 5 -->
+
+These are some other shots I made of the piece.
 
 <img loading="lazy" src="https://kbt.thebottom.net/upload/2024/10/19/20241019165606-e0546e2d.png" alt="[A large Highmountain Tauren Druid holding the hand of a smaller Blood Elf Demon Hunter. The Highmountain has glowing blue horns and wooden armor. The background is a set of stone stairs with blossoming leaves along the ground.]"/> <!-- Nyalotha 1 -->
 
