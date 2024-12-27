@@ -1,12 +1,12 @@
 ---
 layout:     post
 title:      "Warcraft Height Chart"
-subtitle:   "The Trading Post feels more expensive, and catch-up for new players will only get worse."
+subtitle:   "A height chart resource of various playable races"
 active: journal
 image:
   feature: "pc_0012.png"
 date:       2024-12-27
-header-img: "img/postcover/pc_0012.png"
+header-img: "img/postcover/pc_0015.png"
 tags: [height-chart, resource]
 categories: [warcraft]
 comments: false
