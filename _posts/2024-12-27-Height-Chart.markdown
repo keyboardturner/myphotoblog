@@ -4,7 +4,7 @@ title:      "Warcraft Height Chart"
 subtitle:   "A height chart resource of various playable races"
 active: journal
 image:
-  feature: "pc_0012.png"
+  feature: "pc_0015.png"
 date:       2024-12-27
 header-img: "img/postcover/pc_0015.png"
 tags: [height-chart, resource]
