@@ -7,7 +7,7 @@ image:
   feature: "pc_0011.png"
 date:       2024-04-29
 header-img: "img/postcover/pc_0011.png"
-tags: [guide, addons, totalrp3]
+tags: [guide, addons, totalrp3, resource]
 categories: [warcraft]
 comments: false
 ---
