@@ -163,6 +163,10 @@ These heights apply to both body types.
 
 <img loading="lazy" src="https://kbt.thebottom.net/upload/2024/12/27/20241227081350-bc8b9b30.png" alt="[Placeholder]"/>
 
+### Haranir
+
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/12/28/20241228110124-17f36d14.png" alt="[Placeholder]"/>
+
 ## Individual Races - T-Pose
 
 ### Gnome
@@ -240,6 +244,10 @@ These heights apply to both body types.
 ### Dracthyr (Dragon)
 
 <img loading="lazy" src="https://kbt.thebottom.net/upload/2024/12/27/20241227081419-b71bf416.png" alt="[Placeholder]"/>
+
+### Haranir
+
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/12/28/20241228110126-3689b343.png" alt="[Placeholder]"/>
 
 
 
