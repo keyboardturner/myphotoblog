@@ -131,6 +131,10 @@ These heights apply to both body types.
 
 <img loading="lazy" src="https://kbt.thebottom.net/upload/2024/12/27/20241227081406-9902a8a7.png" alt="[Placeholder]"/>
 
+### Haranir
+
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/12/28/20241228110124-17f36d14.png" alt="[Placeholder]"/>
+
 ### Night Elf
 
 <img loading="lazy" src="https://kbt.thebottom.net/upload/2024/12/27/20241227081402-a940aa22.png" alt="[Placeholder]"/>
@@ -162,10 +166,6 @@ These heights apply to both body types.
 ### Dracthyr (Dragon)
 
 <img loading="lazy" src="https://kbt.thebottom.net/upload/2024/12/27/20241227081350-bc8b9b30.png" alt="[Placeholder]"/>
-
-### Haranir
-
-<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/12/28/20241228110124-17f36d14.png" alt="[Placeholder]"/>
 
 ## Individual Races - T-Pose
 
@@ -213,6 +213,10 @@ These heights apply to both body types.
 
 <img loading="lazy" src="https://kbt.thebottom.net/upload/2024/12/27/20241227081435-71c2df4f.png" alt="[Placeholder]"/>
 
+### Haranir
+
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/12/28/20241228110126-3689b343.png" alt="[Placeholder]"/>
+
 ### Night Elf
 
 <img loading="lazy" src="https://kbt.thebottom.net/upload/2024/12/27/20241227081432-b1381207.png" alt="[Placeholder]"/>
@@ -244,10 +248,6 @@ These heights apply to both body types.
 ### Dracthyr (Dragon)
 
 <img loading="lazy" src="https://kbt.thebottom.net/upload/2024/12/27/20241227081419-b71bf416.png" alt="[Placeholder]"/>
-
-### Haranir
-
-<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/12/28/20241228110126-3689b343.png" alt="[Placeholder]"/>
 
 
 
