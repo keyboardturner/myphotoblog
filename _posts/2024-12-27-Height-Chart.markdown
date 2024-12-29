@@ -35,7 +35,7 @@ Full-sized images. These are quite large, as they fit all playable races in.
 
 ### Fullsize Chart (T-Pose):
 
-<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/12/27/20241227081043-fef2caad.png" alt="[Placeholder]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/12/29/20241229073555-f52fab2e.png" alt="[Placeholder]"/>
 
 ### Fullsize Chart (Standing):
 
@@ -55,7 +55,7 @@ These are split into "halves", generally to view them better on most screens.
 
 <img loading="lazy" src="https://kbt.thebottom.net/upload/2024/12/27/20241227081051-4cfeb1b0.png" alt="[Placeholder]"/>
 
-<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/12/27/20241227081057-7735df09.png" alt="[Placeholder]"/>
+<img loading="lazy" src="https://kbt.thebottom.net/upload/2024/12/29/20241229073603-f3cc67b5.png" alt="[Placeholder]"/>
 
 ### Chart Pieces (Standing):
 
