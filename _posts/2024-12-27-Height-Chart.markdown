@@ -525,29 +525,9 @@ Spreadsheets converted into tables:
 | Earthen Dwarf     | 6.1%        | 2.2%          | 3.5%       | 1.0%         |
 
 
-Noggenfogger Height Test 2: Bazinga Edition?
+Noggenfogger Height Test 3: Zimbabwe Edition?
 
 <html>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Noggenfogger Stack Calculator</title>
-    <style>
-        .container {
-            max-width: 400px;
-            margin: auto;
-            padding: 20px;
-            border: 1px solid #ccc;
-            border-radius: 10px;
-            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
-        }
-        input, button {
-            margin: 10px;
-            padding: 10px;
-            font-size: 16px;
-        }
-    </style>
-</head>
 <body>
     <div class="container">
         <h2>Noggenfogger Stack Calculator</h2>
