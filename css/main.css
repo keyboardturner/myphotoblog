@@ -48,9 +48,14 @@ hr.small {
   border-color: white;
 }
 input {
-    background-color: #fff; /* Dark background */
-    color: #333; /* Light text */
-    border: 1px solid #555; /* Subtle border */
+    background-color: #fff;
+    color: #333;
+    border: 1px solid #555;
+}
+button {
+    background-color: #fff;
+    color: #444;
+    border: 1px solid #666;
 }
 .navbar-custom {
   background-color: transparent;
