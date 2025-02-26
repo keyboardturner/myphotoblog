@@ -523,3 +523,58 @@ Spreadsheets converted into tables:
 | Dracthyr Dragon   | 4.2%        | 4.2%          | -4.3%      | -4.3%        |
 | Dracthyr Visage   | 8.2%        | 0.1%          | 6.4%       | -1.0%        |
 | Earthen Dwarf     | 6.1%        | 2.2%          | 3.5%       | 1.0%         |
+
+
+Noggenfogger Height Test?
+
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Noggenfogger Stack Calculator</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 50px;
+        }
+        .container {
+            max-width: 400px;
+            margin: auto;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        input, button {
+            margin: 10px;
+            padding: 10px;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Noggenfogger Stack Calculator</h2>
+        <label for="playerHeight">Player Height (inches or cm):</label>
+        <input type="number" id="playerHeight" placeholder="Enter player height" required><br>
+        <label for="desiredHeight">Desired Height (inches or cm):</label>
+        <input type="number" id="desiredHeight" placeholder="Enter desired height" required><br>
+        <button onclick="calculateStacks()">Calculate</button>
+        <h3 id="result"></h3>
+    </div>
+    <script>
+        function calculateStacks() {
+            let playerHeight = parseFloat(document.getElementById("playerHeight").value);
+            let desiredHeight = parseFloat(document.getElementById("desiredHeight").value);
+            if (isNaN(playerHeight) || isNaN(desiredHeight) || playerHeight <= 0) {
+                document.getElementById("result").innerText = "Please enter a valid player height greater than 0.";
+                return;
+            }
+            let stacks = (desiredHeight - playerHeight) / (playerHeight * 0.01);
+            let potionType = stacks >= 0 ? "growth" : "shrink";
+            document.getElementById("result").innerText = `Stacks needed: ${Math.abs(stacks.toFixed(2))} (${potionType} potion)`;
+        }
+    </script>
+</body>
+</html>
