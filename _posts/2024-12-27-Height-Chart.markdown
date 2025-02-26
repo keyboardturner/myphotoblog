@@ -525,7 +525,9 @@ Spreadsheets converted into tables:
 | Earthen Dwarf     | 6.1%        | 2.2%          | 3.5%       | 1.0%         |
 
 
-Noggenfogger Height Test 3: Zimbabwe Edition?
+[Noggenfogger Select UP](https://www.wowhead.com/item=235704/) (Grow)
+
+[Noggenfogger Select DOWN](https://www.wowhead.com/item=235703/) (Shrink)
 
 <html>
 <body>

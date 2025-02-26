@@ -47,6 +47,12 @@ hr.small {
   border-width: 4px;
   border-color: white;
 }
+input {
+    background-color: #fff; /* Dark background */
+    color: #333; /* Light text */
+    border: 1px solid #555; /* Subtle border */
+}
+
 .navbar-custom {
   background-color: transparent;
   position: absolute;
