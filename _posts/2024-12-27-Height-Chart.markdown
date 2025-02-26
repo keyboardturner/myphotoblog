@@ -122,6 +122,29 @@ These heights apply to both body types.
 
 ## Individual Races - Standing
 
+#### Quick Access
+
+- [Gnome](#gnome)
+- [Vulpera](#vulpera)
+- [Goblin](#goblin)
+- [Dwarf](#dwarf)
+- [Earthen](#earthen)
+- [Human](#human)
+- [Dracthyr (Visage)](#dracthyr-visage)
+- [Forsaken](#forsaken)
+- [Blood Elf](#blood-elf)
+- [Orc](#orc)
+- [Pandaren](#pandaren)
+- [Haranir](#haranir)
+- [Night Elf](#night-elf)
+- [Draenei](#draenei)
+- [Kul Tiran](#kul-tiran)
+- [Worgen](#worgen)
+- [Troll](#troll)
+- [Zandalari](#zandalari)
+- [Tauren](#tauren)
+- [Dracthyr (Dragon)](#dracthyr-dragon)
+
 ### Gnome
 
 <img loading="lazy" src="https://kbt.thebottom.net/upload/2024/12/27/20241227081357-bec17021.png" alt="[Placeholder]"/>
@@ -203,6 +226,29 @@ These heights apply to both body types.
 <img loading="lazy" src="https://kbt.thebottom.net/upload/2024/12/27/20241227081350-bc8b9b30.png" alt="[Placeholder]"/>
 
 ## Individual Races - T-Pose
+
+#### Quick Access
+
+- [Gnome (T-Pose)](#gnome-1)
+- [Vulpera (T-Pose)](#vulpera-1)
+- [Goblin (T-Pose)](#goblin-1)
+- [Dwarf (T-Pose)](#dwarf-1)
+- [Earthen (T-Pose)](#earthen-1)
+- [Human (T-Pose)](#human-1)
+- [Dracthyr (Visage) (T-Pose)](#dracthyr-visage-1)
+- [Forsaken (T-Pose)](#forsaken-1)
+- [Blood Elf (T-Pose)](#blood-elf-1)
+- [Orc (T-Pose)](#orc-1)
+- [Pandaren (T-Pose)](#pandaren-1)
+- [Haranir (T-Pose)](#haranir-1)
+- [Night Elf (T-Pose)](#night-elf-1)
+- [Draenei (T-Pose)](#draenei-1)
+- [Kul Tiran (T-Pose)](#kul-tiran-1)
+- [Worgen (T-Pose)](#worgen-1)
+- [Troll (T-Pose)](#troll-1)
+- [Zandalari (T-Pose)](#zandalari-1)
+- [Tauren (T-Pose)](#tauren-1)
+- [Dracthyr (Dragon) (T-Pose)](#dracthyr-dragon-1)
 
 ### Gnome
 
