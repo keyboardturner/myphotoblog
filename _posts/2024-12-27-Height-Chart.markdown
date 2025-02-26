@@ -17,6 +17,7 @@ comments: false
 
 #### Table of Contents
 
+- [Noggenfogger Stack Calculator](#noggenfogger-stack-calculator)
 - [Fullsize Charts](#fullsize-charts)
 - [Chart Pieces](#chart-pieces)
 - [Data Sheet Images](#data-sheet-images)
@@ -28,6 +29,40 @@ comments: false
 I sometimes struggle to find good resources for character heights in WoW, so some time back, I made a height chart. However, the only source is from my [twitter thread](https://x.com/keyboardturn/status/1643018909233340416), which I no longer use for obvious reasons. As such, I will be posting it here as a more permanent solution. In this post, I'll also have included data for the Earthen Dwarves, which if I recall were said to be approximately "25% larger than normal dwarves" (which is not actually the case in height, but was close). My original estimates based on this number back in January would have placed Male Earthen at about 2 inches taller than Female Human and 2 inches shorter than Male Human. Male Earthen stand at about 5 inches shorter than Female Human, and 9 inches shorter than Male Human.
 
 Why do all this? As I said, partly as a personal RP resource for myself, but also sharing it in hopes that we might one day get a height slider option. It's one thing to implement a simple scale slider option, but it's another to figure out how far the slider should go.
+
+## Noggenfogger Stack Calculator
+
+I made this calculator to help with the growth/shrink potions found in patch 11.1 in the Undermine.
+
+[Noggenfogger Select UP](https://www.wowhead.com/item=235704/) (Grow)
+
+[Noggenfogger Select DOWN](https://www.wowhead.com/item=235703/) (Shrink)
+
+<html>
+<body>
+    <div class="container">
+        <label for="playerHeight">Player Height (inches or cm):</label>
+        <input type="number" id="playerHeight" placeholder="Enter player height" required><br>
+        <label for="desiredHeight">Desired Height (inches or cm):</label>
+        <input type="number" id="desiredHeight" placeholder="Enter desired height" required><br>
+        <button onclick="calculateStacks()">Calculate</button>
+        <h3 id="result"></h3>
+    </div>
+    <script>
+        function calculateStacks() {
+            let playerHeight = parseFloat(document.getElementById("playerHeight").value);
+            let desiredHeight = parseFloat(document.getElementById("desiredHeight").value);
+            if (isNaN(playerHeight) || isNaN(desiredHeight) || playerHeight <= 0) {
+                document.getElementById("result").innerText = "Please enter a valid player height greater than 0.";
+                return;
+            }
+            let stacks = (desiredHeight - playerHeight) / (playerHeight * 0.01);
+            let potionType = stacks >= 0 ? "growth" : "shrink";
+            document.getElementById("result").innerText = `Stacks needed: ${Math.abs(stacks.toFixed(2))} (${potionType} potion)`;
+        }
+    </script>
+</body>
+</html>
 
 ## Fullsize Charts
 
@@ -525,33 +560,3 @@ Spreadsheets converted into tables:
 | Earthen Dwarf     | 6.1%        | 2.2%          | 3.5%       | 1.0%         |
 
 
-[Noggenfogger Select UP](https://www.wowhead.com/item=235704/) (Grow)
-
-[Noggenfogger Select DOWN](https://www.wowhead.com/item=235703/) (Shrink)
-
-<html>
-<body>
-    <div class="container">
-        <h2>Noggenfogger Stack Calculator</h2>
-        <label for="playerHeight">Player Height (inches or cm):</label>
-        <input type="number" id="playerHeight" placeholder="Enter player height" required><br>
-        <label for="desiredHeight">Desired Height (inches or cm):</label>
-        <input type="number" id="desiredHeight" placeholder="Enter desired height" required><br>
-        <button onclick="calculateStacks()">Calculate</button>
-        <h3 id="result"></h3>
-    </div>
-    <script>
-        function calculateStacks() {
-            let playerHeight = parseFloat(document.getElementById("playerHeight").value);
-            let desiredHeight = parseFloat(document.getElementById("desiredHeight").value);
-            if (isNaN(playerHeight) || isNaN(desiredHeight) || playerHeight <= 0) {
-                document.getElementById("result").innerText = "Please enter a valid player height greater than 0.";
-                return;
-            }
-            let stacks = (desiredHeight - playerHeight) / (playerHeight * 0.01);
-            let potionType = stacks >= 0 ? "growth" : "shrink";
-            document.getElementById("result").innerText = `Stacks needed: ${Math.abs(stacks.toFixed(2))} (${potionType} potion)`;
-        }
-    </script>
-</body>
-</html>
